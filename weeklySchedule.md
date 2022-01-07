@@ -1,5 +1,6 @@
 
 ### WEEK 1 -  Intro to Class + HTML & CSS
+*Jan 25 ans Jan 27*
 
 **Topics Covered**
 * Introduction to Connections Lab
@@ -26,6 +27,7 @@
 ---
 
 ### WEEK 2 - Make things happen on the page
+*Feb 1 & Feb 3*
 
 **Topics Covered**
 * JS & the DOM
@@ -48,6 +50,7 @@
 ---
 
 ### WEEK 3 - Working with Data  
+*Feb 8 & Feb 10*
 
 **Topics Covered**
 * What is JSON Data
@@ -72,6 +75,7 @@
 ---
 
 ### WEEK 4 - More Data & APIs
+*Feb 15 & Feb 17*
 
 **Topics Covered**
 * Basics of JSON to p5 with Fetch
@@ -87,6 +91,7 @@
 ---
 
 ### WEEK 5 - Project #1 Presentations
+*Feb 22 & Feb 24*
 
 **Topics Covered**
 * Using Github to Serve Pages
@@ -102,6 +107,7 @@ https://nodejs.org/en/
 ---
 
 ### WEEK 6 - Intro to the Server - NodeJS and Express
+*Mar 1 & Mar 3*
 
 **Topics Covered**
 * What is the server
@@ -122,6 +128,7 @@ https://nodejs.org/en/
 ---
 
 ### WEEK 7 - More Server + Storage - Express.js and NeDB
+*Mar 8 & Mar 10*
 
 **Topics**
 * POST Requests
@@ -143,6 +150,7 @@ https://nodejs.org/en/
 ---
 
 ### WEEK 8 - Real-time + Multi-Person - Sockets and Socket.io 
+*Mar 24*
 
 **Topics Covered**
 * Intro to Sockets & Socket.io
@@ -158,6 +166,7 @@ https://nodejs.org/en/
 ---
 
 ### WEEK 9 - More with Sockets and Socket.io
+*Mar 29 & Mar 31* 
 
 **Topics Covered**
 * Namespaces in socket.io
@@ -172,6 +181,7 @@ https://nodejs.org/en/
 ---
 
 ### WEEK 10 - Project #2 Presentations
+*Apr 5 & Apr 7*
 
 **Topics Covered**
 * Using Glitch/Heroku to Serve web applications
@@ -184,6 +194,7 @@ https://nodejs.org/en/
 ---
 
 ### WEEK 11 - Client-Side Libraries
+*Apr 12 & Apr 14*
 
 **Topics Covered**
 * Look at different client side libraries and look at how we can integrate them with what we have learnt so far
@@ -209,6 +220,7 @@ https://nodejs.org/en/
 ---
 
 ### WEEK 12 - Peer to Peer with WebRTC + Final Project Plans
+*Apr 19 & Apr 21*
 
 **Topics Covered**
 * Look at additional ways to stream video and data across systems and applications. Students are not required to use this in their projects, but are required to make simple applications in class using these libraries.
@@ -233,6 +245,7 @@ https://nodejs.org/en/
 ---
 
 ### WEEK 13 - Final Project Play-Testing & Feedback
+*Apr 26 & Apr 28*
 
 **Topic Covered**
 * Play-test Final Projects
@@ -250,5 +263,19 @@ https://nodejs.org/en/
 
 ---
 
+**No class May 3: Eid Al-Fitr Holiday**
+**No class May 5: Legislative day: Classes meet on a Monday schedule**
+
+--
+
+### WEEK 13.5 - Final Project Development
+*May 6 – [Fri] – Class meets on Tuesday schedule*
+
+Work on Projects in Class
+
+---
+
 ### WEEK 14 - Final Project Presentations
+*May 10 & May 12*
+
 Final Project Presentations
