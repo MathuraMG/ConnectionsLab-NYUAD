@@ -1,6 +1,6 @@
 
 ### WEEK 1 -  Intro to Class + HTML & CSS
-*Jan 25 ans Jan 27*
+*Jan 25 & Jan 27*
 
 **Topics Covered**
 * Introduction to Connections Lab
