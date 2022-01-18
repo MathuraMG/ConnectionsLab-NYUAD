@@ -18,8 +18,9 @@
 * Flexbox Froggie
 
 **Assignments**
-* READ Scott Murray’s “Ch.3 Technology Fundamentals - Part 1”  pp. 15-34
-* READ Steve Krug’s “Don’t Make Me Think” Ch. 1-5
+* READ The Elements of User Design Chapter 6 - [The Skeleton Plane](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/the-elements-of/9780321684486/ch07.html#ch06lev1sec1)
+* READ Scott Murray’s Interactive Data Visualisation for the Web [“Ch.3 Technology Fundamentals - Part 1”](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=4938502)  pp. 15-34
+* READ [Steve Krug’s “Don’t Make Me Think” Ch. 1-5](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005548194&context=L&vid=NYUAD&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,don%27t%20make%20me%20think&sortby=date&facet=frbrgroupid,include,1146206081&mode=basic&offset=0) 
 * MAKE a simple wireframe of one of your present/past projects.
 * MAKE a webpage version  of  the wireframe you have designed. Your assignment should include a .html file and a .css file. You could do this in a number of ways. For example, if your slide has a colored background, you could either implement the same background through CSS or you could upload an image and set that as the background for your web page. 
 * DOCUMENT  your progress and learnings from the making of the webpage
