@@ -1,4 +1,4 @@
-Below are examples of connected applications. This is by no means an exhaustive list - let me know if you'd like to add more on to this!
+Below are a few examples of connected applications - message me if there are any you'd like to add in here!
 
 * [Paper Planes](https://paperplanes.world/)
 * [Gather Town](https://www.gather.town/)
