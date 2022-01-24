@@ -6,7 +6,8 @@
 * Google experiments examples
 * Wireframes!
 * Install VSCode
-* Setup git and github
+* Setup github [Github for documentation](https://github.com/MathuraMG/Resources/blob/main/Github-for-documentation.md) | [Markdown](https://markdown-it.github.io/)
+ 
 
 ## Class 1 - Part 2
 ### Jan 25 10:25am - 1:05pm
