@@ -8,6 +8,8 @@ Below are a few examples of connected applications - message me if there are any
 * [Connected Worlds](https://classic.nysci.org/experiencenysci/exhibits/connected-worlds/) - PS reimagine this project across countries - how would it look?
 * [Plink - shared music experience](http://labs.dinahmoe.com/plink/)
 
+**[More Examples from the Intro class!!](https://github.com/MathuraMG/IntroductionToInteractiveMedia/blob/master/Week1/examples.md)**
+
 Examples from the gaming world
 * [Rune - AI matchmaking for gaming](https://www.rune.ai/)
 * [Drawful](https://www.jackboxgames.com/drawful-two/)
