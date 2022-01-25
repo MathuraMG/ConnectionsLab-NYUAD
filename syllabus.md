@@ -31,13 +31,24 @@ This is a production-based course that involves programming work both inside and
 The course embraces an active-learning approach believing that programming, design, and web development are best understood by doing. Thus, much of the live class time will be spent collectively working through code examples and project-making activities. Time will also be allotted for students to share ideas, explore collaborative opportunities, present work, offer feedback, conduct user-testing, and review code.
 
 ### Graded Activities
+
+Attendance & Class Participation - 15% (This includes discussing readings, sharing work, and providing  project feedback to peers  in class)
+Weekly Assignments - 20% (This includes weekly code submissions)
+Project Documentation (blog posts) - 15%
+Project 1 - 15% (Details listed in Grading Rubrics below)
+Project 2 - 15% (Details listed in Grading Rubrics below)
+Final Project - 20% (Details listed in Grading Rubrics below)
+
 **Grading Rubric**
 
 Weekly assignments and class participation  will use a simple rubric:
 
 Excellent: A
+
 Satisfactory: B+
+
 Unsatisfactory: C
+
 Unacceptable: F
 
 **Project Rubric:**
@@ -70,10 +81,15 @@ Documentation - 25%
 **Course Grading Calculation**
 
 A         95+
+
 A-         88 - 94
+
 B+         83 - 87
+
 B          75 - 82
+
 B-         70 - 74
+
 C+         65 - 69
 
 ### Project Briefs
