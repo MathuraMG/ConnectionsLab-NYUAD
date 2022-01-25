@@ -98,10 +98,10 @@ Create a web application that utilizes both a data set and the p5.js library. Th
 
 Here are some examples to help you think through possible project ideas. Note, these examples are not exact representations of what you are being asked to do. Rather, they are offered here as inspiration for the direction or type of work you might consider doing.
 
-* Blue Feed, Red Feed
-* Listen to Wikipedia
-* Paper Signals with Google
-* How Many People Are In Space Now
+* [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)
+* [Listen to Wikipedia]( http://listen.hatnote.com/)
+* [Paper Signals with Google](https://papersignals.withgoogle.com/)
+* [How Many People Are In Space Now](https://www.howmanypeopleareinspacerightnow.com/)
 
 **Project 2 - Due Week 10**
 Create a web application that allows a user to send and receive  data. Your project should incorporate NodeJS, Express and either NeDB for storage, Socket.io for real-time multi-person data exchange or both NeDB & Socket.io. The aim is to produce an experience where users can interact, either alone or with one another, and submit data that is stored (NeDB) and/or exchanged (Socket.io) and represented to other users either in real-time or on a static page. Examples include:
@@ -110,9 +110,9 @@ Create a web application that allows a user to send and receive  data. Your proj
 * A personal/communal message board
 
 Additional inspiration:
-* Chrome Experiments - WebSockets
-* p5 Play Library
-* PaperPlanes.world (mobile experience)
+* [Chrome Experiments - WebSockets](https://experiments.withgoogle.com/search?q=websockets)
+* [p5 Play Library](https://molleindustria.github.io/p5.play/)
+* [PaperPlanes.world (mobile experience)](https://paperplanes.world/)
 
 **Final Project - Due Week 14**
 Create a web application that has both client-side and server side code. You are welcome to continue working on Project #2, return to Project #1, or start an entirely new project. Similar to Project #2, users who engage with your application site must have some ability to “connect” with other users. This could be done by collecting  user data, storing it in a database, and sharing it back with other users. Or this could be done by incorporating real-time connections and communication via Sockets or WebRTC. You are welcome to use any client-side javascript library you like, but you should use at least one.
