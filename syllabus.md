@@ -179,7 +179,9 @@ You are expected to attend your assigned section each week. For your section, we
 You will be required to present your projects in class on the days the projects are due. Project presentation weeks  are as follows:
 
 Mid-Term Project 1 -  Week 5 - Feb 24th
+
 Mid-Term Project 2 - Week 10 - April 7th
+
 FInal Project - Week 14 - May 12th
 
 ### Participation
