@@ -17,9 +17,10 @@
 
 **Topics covered in class**
 * Wireframes!
+  * https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/Week_1_HTML_CSS/1.1_Intro%20to%20Wireframes_Slides.pdf
 
 * Intro to HTML 
-  * What is HTML
+  * What is HTML - markup language for documents designed to be displayed in a web browser. 
   * Making an html file
   * `html`, `head`, `body` tags
   * `p`, `h1`, `h2`, `a`, `img` tags
@@ -27,7 +28,7 @@
   * [HTML Boilerplate](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/HTML_Boilerplate/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/HTML_Boilerplate)
 
 * Intro to CSS
-  * What is CSS
+  * What is CSS - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in HTML
   * Making a css file - use the file extension .css
   * Remember to alway link your css file in your html file. Your html file is the entry point for your website
   * `<link rel="stylesheet" href="styles.css">`
