@@ -17,11 +17,30 @@
 
 **Topics covered in class**
 * Wireframes!
+
 * Intro to HTML 
+  * What is HTML
+  * Making an html file
+  * `html`, `head`, `body` tags
+  * `p`, `h1`, `h2`, `a`, `img` tags
+  * 'ul', 'li'
   * [HTML Boilerplate](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/HTML_Boilerplate/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/HTML_Boilerplate)
+
 * Intro to CSS
+  * What is CSS
+  * Making a css file - use the file extension .css
+  * Remember to alway link your css file in your html file. Your html file is the entry point for your website
+  * `<link rel="stylesheet" href="styles.css">`
+  * CSS properties we will look at - 
+    * color
+    * font-size
+    * background-color
+    * margin
+    * padding
   * [Cat Page](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/Simple_Cat_Page/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/Simple_Cat_Page)
+
 * Flexbox - 
+  * 
   * [Flex example 1](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Flex_01/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Flex_01)
   * [Flex example 2](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Flex_02/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Flex_02)
 * Responsive CSS
