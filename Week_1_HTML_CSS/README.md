@@ -39,6 +39,7 @@
     * background-color
     * margin
     * padding
+  * Naming convention that we will use - [BEM](http://getbem.com/naming/)
   * [Cat Page](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/Simple_Cat_Page/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/Simple_Cat_Page)
 
 * Flexbox - 
