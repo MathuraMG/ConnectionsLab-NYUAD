@@ -3,7 +3,6 @@
 * [Amarsanaa,Oyungerel](https://github.com/OyungerelA/Connections_Lab)
 * [Asare,Eric](https://github.com/eric-asare/ConnectionsLab)
 * [Chen,Christopher](https://github.com/chen-christopher/connectionsLab)
-* [Kang,Amy](https://github.com/skang0531/ConnectionsLab)
 * [Karishev,Shyngys](https://github.com/karishev/ConnectionsLabSring2022)
 * [Kwon,Yeji](https://github.com/yk1932/connectionsLab)
 * [Lalwani,Himanshi](https://github.com/himanshilalwani/ConnectionsLab)
