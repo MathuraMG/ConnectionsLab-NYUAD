@@ -24,7 +24,8 @@
   * Making an html file
   * `html`, `head`, `body` tags
   * `p`, `h1`, `h2`, `a`, `img` tags
-  * 'ul', 'li'
+  * `ul`, `li` - use these tags to make lists. `ul` can be used for Unordered lists, and `ol` for ordered lists
+  * `div` - use this tag when you need to make a logical division in your structure and hierarchy. Keep in mind that this has no visual or accessible use.
   * [HTML Boilerplate](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/HTML_Boilerplate/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/HTML_Boilerplate)
 
 * Intro to CSS
