@@ -73,6 +73,14 @@
 **Assignments**
 * READ The Elements of User Design Chapter 6 - [The Skeleton Plane](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/the-elements-of/9780321684486/ch07.html#ch06lev1sec1)
 * READ Scott Murray’s Interactive Data Visualisation for the Web [“Ch.3 Technology Fundamentals - Part 1”](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=4938502)  pp. 15-34
-* MAKE a simple wireframe of one of your present/past projects.
-* MAKE a webpage version  of  the wireframe you have designed. Your assignment should include a .html file and a .css file. You could do this in a number of ways. For example, if your slide has a colored background, you could either implement the same background through CSS or you could upload an image and set that as the background for your web page. 
+* MAKE a simple wireframe of one of your present/past projects. If you have multiple wireframes, that's ok! Share all of them as part of your process.
+* MAKE a webpage version  of  the wireframe you have designed. Your assignment should include a .html file and a .css file. 
+  * Your HTML file must contain (*not limited to*)
+    * an image
+    * a video
+    * p tag
+    * headings
+    * a tag
+  * In your css, implement flex in some part of the page.
+
 * DOCUMENT  your progress and learnings from the making of the webpage
