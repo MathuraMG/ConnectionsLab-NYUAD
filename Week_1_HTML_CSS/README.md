@@ -45,7 +45,7 @@
 * Flexbox - 
   * The flex layout allows to create flexible elements on a webpage
   * It works with the `display` property in css. It can values such as `block`, `none`, `flex` etc. We will be using `flex` quite a bit.
-  * Once within flex, the 2 main properties we will look at are `justify-content`, and `align-items`. To practice flexbox, try out [Felxbox Froggy](https://flexboxfroggy.com/)
+  * Once within flex, the 2 main properties we will look at are `justify-content`, and `align-items`. To practice flexbox, try out [Flexbox Froggy](https://flexboxfroggy.com/)
   * [Flex example 1](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Flex_01/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Flex_01)
   * [Flex example 2](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Flex_02/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Flex_02)
 * Responsive CSS
@@ -73,6 +73,7 @@
 **Assignments**
 * READ The Elements of User Design Chapter 6 - [The Skeleton Plane](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/the-elements-of/9780321684486/ch07.html#ch06lev1sec1)
 * READ Scott Murray’s Interactive Data Visualisation for the Web [“Ch.3 Technology Fundamentals - Part 1”](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=4938502)  pp. 15-34
+* READ your classmate's critiques on their connected application. [You can find everyones repositories here.](https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/studentRepos.md). We will discuss them in class.
 * MAKE a simple wireframe of one of your present/past projects. If you have multiple wireframes, that's ok! Share all of them as part of your process.
 * MAKE a webpage version  of  the wireframe you have designed. Your assignment should include a .html file and a .css file. 
   * Your HTML file must contain (*not limited to*)
@@ -82,5 +83,6 @@
     * headings
     * a tag
   * In your css, implement flex in some part of the page.
+  * Upload your code on github, and share the working link in your documentation
 
-* DOCUMENT  your progress and learnings from the making of the webpage
+* DOCUMENT your progress and learnings from the making of the webpage
