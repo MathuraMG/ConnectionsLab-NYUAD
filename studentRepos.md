@@ -5,7 +5,6 @@
 * [Chen,Christopher](https://github.com/chen-christopher/connectionsLab)
 * [Karishev,Shyngys](https://github.com/karishev/ConnectionsLabSring2022)
 * [Kwon,Yeji](https://github.com/yk1932/connectionsLab)
-* [Lalwani,Himanshi](https://github.com/himanshilalwani/ConnectionsLab)
 * [Lee,Soojin](https://github.com/Soojin-Lee0819/connectionsLab)
 * [Maratkyzy,Adina](https://github.com/renaidn/ConnectionsLab)
 * [Nassar,Fatema](https://github.com/fnassar/connectionslab)
