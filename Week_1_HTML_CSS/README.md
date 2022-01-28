@@ -70,7 +70,7 @@
 * [Khan Academy Tutorial - Intro to HTML & CSS](https://www.khanacademy.org/computing/computer-programming/html-css) 
 * [Flexbox Froggie](https://flexboxfroggy.com/)
 
-**Assignments**
+### Assignments
 * READ The Elements of User Design Chapter 6 - [The Skeleton Plane](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/the-elements-of/9780321684486/ch07.html#ch06lev1sec1)
 * READ Scott Murray’s Interactive Data Visualisation for the Web [“Ch.3 Technology Fundamentals - Part 1”](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=4938502)  pp. 15-34
 * READ your classmate's critiques on their connected application. [You can find everyones repositories here.](https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/studentRepos.md). We will discuss them in class.
