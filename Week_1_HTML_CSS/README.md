@@ -9,7 +9,7 @@
 
 ### **Assignment - Due Jan 27 - 10:25am**
 * Pick a connected applicaiton of your choice. It can be from [the list we looked at in class] or otherwise. Write a 300-500 word critique on the application. What do you think works? What doesn't? What would you like to do differently? *This has to be available on your github*
-* Make sure you have joined the discord channel - https://discord.gg/dCsk24Y7
+* Make sure you have joined the discord channel 
 * Install VSCode - https://code.visualstudio.com/
 
 ## Class 1 - Part 2
