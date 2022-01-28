@@ -9,6 +9,7 @@
 * [Maratkyzy,Adina](https://github.com/renaidn/ConnectionsLab)
 * [Nassar,Fatema](https://github.com/fnassar/connectionslab)
 * [Pienkosz,Marta](https://github.com/martapienkosz/connectionslab)
+* [Sharaf, Aalya](https://github.com/AalyaSharaf/ConnectionsLabSpring2022)
 * [Singh,Aakarsh](https://github.com/AakSin/connectionsLab)
 * [Timilsina,Dixit](https://github.com/dt1930/connections_labs2022)
 * [Ugartechea Palma,Andres](https://github.com/andresugartechea/ConnectionsLab)
