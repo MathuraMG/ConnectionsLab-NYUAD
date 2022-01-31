@@ -49,3 +49,6 @@
   document.getElementsByClassName('css-nic7nv ee0hn7b0')[0].innerHTML = "NYUAD REOPENS NEXT WEEK"
   ```
   * TO DO : change multiple headlines using a for loop
+
+* IF time permits
+  * Go over events and create a js file in our webpage
