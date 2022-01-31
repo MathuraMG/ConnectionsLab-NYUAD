@@ -1,3 +1,6 @@
+## Class 2 - Part 1
+### Feb 1st 10:25-11:40am
+
 * Recap : How to submit your assignment
   1. Upload the code on github
   2. Have a working link available on github. Add that link in your documentation
@@ -13,6 +16,10 @@
 * Go over webpage Homework
 
 * What are we doing this week? - let's look at some examples
+  * Learning to make interactions using javascript
+    * [Example of carousel - Bus Bunching](https://interactive.wbez.org/curiouscity/bus-bunching/)
+    * [Examples of scroll website - Deep Sea](https://neal.fun/deep-sea/)
+    * [http://histography.io/](http://histography.io/) 
 
 * The DOM and javascript!
 * What is the DOM
@@ -31,3 +38,14 @@
     * it can be used for front and back end
     * Until recently it could only be run on the web, but now it can be run standalone
     * It is an interpreted language
+  * TO DO : Create variables in javascript. Try working with/ adding strings and numbers in the console
+  * TO DO : create a js file, include it in our html page
+
+* Now we can access the DOM and try manipulating it from within the browser
+  * access the DOM object - `document`
+  * It has various attributes and methods eg - `document.body`, `document.body.clientHeight`, `document.getElementById('')`
+  * lets try to change the NYT headlines - 
+  ```
+  document.getElementsByClassName('css-nic7nv ee0hn7b0')[0].innerHTML = "NYUAD REOPENS NEXT WEEK"
+  ```
+  * TO DO : change multiple headlines using a for loop
