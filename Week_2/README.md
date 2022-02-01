@@ -52,3 +52,19 @@
 
 * IF time permits
   * Go over events and create a js file in our webpage
+
+
+**Resources**
+* MDN - Javascript Basics
+* MDN - A Re-Introduction to JS
+* “JS for Cats” by Max Ogden
+* ITP Live Web Class - JS 101 by Shawn Van Every
+
+**Assignment**
+*We will go over it in Thursdays class*
+* READ Scott Murray’s “Ch.3 Technology Fundamentals - Part 2” pp. 35-45
+* READ [Steve Krug’s “Don’t Make Me Think” Ch. 1-5](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005548194&context=L&vid=NYUAD&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,don%27t%20make%20me%20think&sortby=date&facet=frbrgroupid,include,1146206081&mode=basic&offset=0) 
+* READ MDN Manipulating Documents (No need to do the exercises, just read through it.)
+* READ MDN Introduction to Events (Up to “Other Event Concepts”. You’re welcome to read on, but you can stop when you get to this part.)
+* MAKE a **meaningful** webpage (or part of a larger web application) that has at least two event-driven user interactions that are handled in a script.js file. Examples of events include mouse clicks, key presses, window scrolls and many others (window onload does not count). Here are some possible examples (counter, FAQ accordian, 1 week calendar, to do list, image carousel, chat interaction) Your submission should include a .html file, a .css file and a .js file.
+* DOCUMENT  your progress and learnings from the making of the webpage
