@@ -63,6 +63,20 @@
   * click event
   * callbacks!
 
+* Let's make a counter - here's the steps we'll go over
+  * Add a button - HTML and event listener
+  * Use flex
+  * Maybe responsive too
+  * Grab a google font
+
+* Let's make a TO Do list
+  * add an input box where you can enter the new item
+  * add a `change' event listener to the box
+  * When the user hits enter after typing in the item, create a list item with the action
+  * add a button assiciated to each list item that helps scratch off the item
+
+* Demo the scroll example
+
 * using Es6 syntax for functions
 * Go over the homework and example interactions!
 
