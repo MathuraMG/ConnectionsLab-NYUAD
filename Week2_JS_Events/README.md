@@ -47,6 +47,8 @@
   * TO DO : Create variables in javascript. Try working with/ adding strings and numbers in the console
   * TO DO : create a js file, include it in our html page
 
+💻🔹 **[CODE - JS](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/JS/)**
+
 * Now we can access the DOM and try manipulating it from within the browser
   * access the DOM object - `document`
   * It has various attributes and methods eg - `document.body`, `document.body.clientHeight`, `document.getElementById('')`
@@ -63,6 +65,14 @@
   * click event
   * callbacks!
 
+💻🔹 **[CODE - Events](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events/)**
+
+💻🔹 **[CODE - Events Arrays Images](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_arrays_images/)**
+
+💻🔹 **[CODE - Events Arrays Text](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_arrays_text/)**
+
+💻🔹 **[CODE - Events Colour](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_color/)**
+
 * Let's make a counter - here's the steps we'll go over
   * Add a button - HTML and event listener
   * Use flex
@@ -75,7 +85,11 @@
   * When the user hits enter after typing in the item, create a list item with the action
   * add a button assiciated to each list item that helps scratch off the item
 
+💻🔹 **[CODE - To Do list](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_To_Do_List/)**
+
 * Demo the scroll example
+
+💻🔹 **[CODE - Events_Scroll](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_Scroll/)**
 
 * using Es6 syntax for functions
 * Go over the homework and example interactions!
