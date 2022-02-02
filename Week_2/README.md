@@ -21,6 +21,12 @@
     * [Examples of scroll website - Deep Sea](https://neal.fun/deep-sea/)
     * [http://histography.io/](http://histography.io/) 
 
+## Class 2 - Part 2
+### Feb 3rd 10:25-1:05pm
+
+* Media queries - how can we make our website responsive
+  * TODO : open up your code from last week, let's make one element on it responsive 
+
 * The DOM and javascript!
 * What is the DOM
   *  Document Object Model - [MDN on DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
@@ -50,8 +56,15 @@
   ```
   * TO DO : change multiple headlines using a for loop
 
-* IF time permits
-  * Go over events and create a js file in our webpage
+* Creating a js file in our page and link it to our HTML  
+
+* EVENTS!
+  * onload event
+  * click event
+  * callbacks!
+
+* using Es6 syntax for functions
+* Go over the homework and example interactions!
 
 
 **Resources**
