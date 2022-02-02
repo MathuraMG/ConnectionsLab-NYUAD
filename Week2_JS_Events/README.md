@@ -65,19 +65,14 @@
   * click event
   * callbacks!
 
-💻🔹 **[CODE - Events](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events/)**
-
-💻🔹 **[CODE - Events Arrays Images](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_arrays_images/)**
-
-💻🔹 **[CODE - Events Arrays Text](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_arrays_text/)**
-
-💻🔹 **[CODE - Events Colour](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_color/)**
 
 * Let's make a counter - here's the steps we'll go over
   * Add a button - HTML and event listener
   * Use flex
   * Maybe responsive too
   * Grab a google font
+
+💻🔹 **[CODE - Counter](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events/)**
 
 * Let's make a TO Do list
   * add an input box where you can enter the new item
@@ -94,18 +89,23 @@
 * using Es6 syntax for functions
 * Go over the homework and example interactions!
 
+💻🔹 **[CODE - Events Arrays Images](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_arrays_images/)**
+
+💻🔹 **[CODE - Events Arrays Text](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_arrays_text/)**
+
+💻🔹 **[CODE - Events Colour](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_color/)**
+
 
 **Resources**
-* MDN - Javascript Basics
-* MDN - A Re-Introduction to JS
-* “JS for Cats” by Max Ogden
-* ITP Live Web Class - JS 101 by Shawn Van Every
+* [MDN - Javascript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+* [MDN - A Re-Introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [“JS for Cats” by Max Ogden](about:blank)
+* [ITP Live Web Class - JS 101 by Shawn Van Every](https://itp.nyu.edu/~sve204/liveweb_fall2019/javascript101.html)
 
 **Assignment**
 *We will go over it in Thursdays class*
-* READ Scott Murray’s “Ch.3 Technology Fundamentals - Part 2” pp. 35-45
 * READ [Steve Krug’s “Don’t Make Me Think” Ch. 1-5](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005548194&context=L&vid=NYUAD&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,don%27t%20make%20me%20think&sortby=date&facet=frbrgroupid,include,1146206081&mode=basic&offset=0) 
-* READ MDN Manipulating Documents (No need to do the exercises, just read through it.)
-* READ MDN Introduction to Events (Up to “Other Event Concepts”. You’re welcome to read on, but you can stop when you get to this part.)
+* READ [MDN Manipulating Documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents) (No need to do the exercises, just read through it.)
+* READ [MDN Introduction to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) (Up to “Other Event Concepts”. You’re welcome to read on, but you can stop when you get to this part.)
 * MAKE a **meaningful** webpage (or part of a larger web application) that has at least two event-driven user interactions that are handled in a script.js file. Examples of events include mouse clicks, key presses, window scrolls and many others (window onload does not count). Here are some possible examples (counter, FAQ accordian, 1 week calendar, to do list, image carousel, chat interaction) Your submission should include a .html file, a .css file and a .js file.
 * DOCUMENT  your progress and learnings from the making of the webpage
