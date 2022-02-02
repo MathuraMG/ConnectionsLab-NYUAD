@@ -1,0 +1,12 @@
+body {
+  /* background-color: rgb(247, 224, 224); */
+  height: 300vh;
+  /* background: linear-gradient(to bottom, #163C52 0%,#4F4F47 30%,#C5752D 60%,#B7490F 80%, #000000 100%);  */
+  background: linear-gradient(to bottom, #c8ebff 0%,#90ddeb 40%,#C5752D 70%,#5f2506 80%, #2F1107 100%); 
+}
+
+.box {
+  position: fixed;
+  bottom: 0;
+  width: 20vw;
+}

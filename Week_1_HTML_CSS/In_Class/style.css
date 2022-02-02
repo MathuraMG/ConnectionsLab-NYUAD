@@ -1,0 +1,30 @@
+body {
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 200;
+}
+
+.heading {
+  color: #0068a0;
+}
+
+/* NAV STYLES */
+.nav {
+  display: flex;
+}
+
+.nav__list {    
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+/* CONTAINER STYLES */
+
+.container {
+  display: flex;
+}
+
+.container__info {
+  width: 50%;
+}
