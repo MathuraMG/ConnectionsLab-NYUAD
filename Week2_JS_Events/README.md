@@ -95,6 +95,10 @@
 
 💻🔹 **[CODE - Events Colour](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_color/)**
 
+💻🔴 **[CODE - In Class Counter](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week2_JS_Events/In_Class_Counter)**
+
+💻🔴 **[CODE - In Class To Do List](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week2_JS_Events/In_Class_To_Do_List)**
+
 
 **Resources**
 * [MDN - Javascript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
@@ -102,7 +106,7 @@
 * [“JS for Cats” by Max Ogden](about:blank)
 * [ITP Live Web Class - JS 101 by Shawn Van Every](https://itp.nyu.edu/~sve204/liveweb_fall2019/javascript101.html)
 
-**Assignment**
+## **Assignment**
 *We will go over it in Thursdays class*
 * READ [Steve Krug’s “Don’t Make Me Think” Ch. 1-5](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005548194&context=L&vid=NYUAD&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,don%27t%20make%20me%20think&sortby=date&facet=frbrgroupid,include,1146206081&mode=basic&offset=0) 
 * READ [MDN Manipulating Documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents) (No need to do the exercises, just read through it.)
