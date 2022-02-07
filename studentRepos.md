@@ -1,7 +1,7 @@
 **List of Student Repos**
-* [Al-Towaity,Sarah](https://github.com/sarah-altowaity1/ConnectionsLabSpring2022.git)
 * [Amarsanaa,Oyungerel](https://github.com/OyungerelA/Connections_Lab)
 * [Asare,Eric](https://github.com/eric-asare/ConnectionsLab)
+* [Azhar,Abraiz](https://github.com/Abraiz01/Connections-Lab)
 * [Chen,Christopher](https://github.com/chen-christopher/connectionsLab)
 * [Karishev,Shyngys](https://github.com/karishev/ConnectionsLabSring2022)
 * [Kwon,Yeji](https://github.com/yk1932/connectionsLab)
