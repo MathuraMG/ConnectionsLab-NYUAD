@@ -14,8 +14,9 @@ Office hours: By appointment
 Meeting times:
     Theory Classes - 10:25-11:40am Tues
     Lab Classes - 10:25am-1:05pm Thurs
-Session: Spring 2022       
-Class location: Online - Zoom ([available on NYU Brightspace](https://brightspace.nyu.edu/d2l/home/168920)) / C3-TBD 
+Session: Spring 2022    
+   
+**Class location:  C3 019**
 
 Welcome to Connections Lab. All class material can be found in the below links. 
 
