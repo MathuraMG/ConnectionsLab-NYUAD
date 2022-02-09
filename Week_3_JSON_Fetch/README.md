@@ -37,7 +37,8 @@
   * Cannot leave comments
   * Can find all the rules here - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON 
 * **TODO** make a simple dataset
-* Sources that we can look at -> https://github.com/dariusk/corpora/tree/master/data
+* Sources that we can look at -> https://github.com/dariusk/corpora/tree/master/data | https://github.com/jdorfman/awesome-json-datasets
+
 * DEMO | Can be static files - downloadable/ can query; can also query for dynamic data (people in space)
 * Look at the JSON returned by the URL -
  http://api.open-notify.org/astros.json
@@ -93,7 +94,18 @@ fetch('http://api.open-notify.org/astros.json')
 **A quick look at p5**
 * Now that you have some data , let's look at ways that you could visualise using a quick canvas library
 * Let's add p5 into our html
-* How can we draw an ellispe in p5? Can we link it to the data we have
+* How can we draw an ellispe in p5? Can we link it to the data we have?
+
+**List of APIs**
+* https://rapidapi.com/collection/list-of-free-apis
+* [People in space](http://api.open-notify.org/astros.json)
+* [Wikipedia](http://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=)
+* [Openweather - the basics are free](https://openweathermap.org/api)
+* [PokemonAPI](https://pokeapi.co/)
+* PS - different countries maintain their data sets as well - do check that out! Here's a few
+  * https://opendata.cityofnewyork.us/
+  * https://data.gov.in/
+  * https://addata.gov.ae/ 
 
 **References**
 
@@ -104,9 +116,12 @@ fetch('http://api.open-notify.org/astros.json')
 
 ## Assignment
 
-* READ Affordances of the digital Medium
-* READ the Project #1 brief
+* READ Chapter 2 - Affordances of the Digital Medium from this book [Janet H Murray: Inventing the Medium : Principles of Interaction Design As a Cultural Practice](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003762385&context=L&vid=NYUAD&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,Janet%20Murray&sortby=rank&mode=basic)
+* READ the [Project #1 brief](https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/syllabus.md#project-briefs)
 * SHARE and DOCUMENT your Project #1 ideas with the class via discord. Be ready to talk about your ideas in class next week.
 * MAKE an initial version of your project where data is displayed on the page either on page load or as a result of a user interaction. You are welcome to go further than this and start to incorporate p5, but you should at least have identified a data set that you intend to use and be able to properly display relevant info on the page. 
 * DOCUMENT  your progress and learnings from the making of the your initial version of the project
+* **Readings are due by class on Tuesday.** 
+* **Your project brief needs to be up on discord by 12 noon Feb 14th**
+* **Your github needs to be updated with a version/prototype of your project and the documentation by 12 noon Feb 14th**
 
