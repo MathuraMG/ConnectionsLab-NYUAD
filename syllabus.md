@@ -33,10 +33,15 @@ The course embraces an active-learning approach believing that programming, desi
 ### Graded Activities
 
 Attendance & Class Participation - 15% (This includes discussing readings, sharing work, and providing  project feedback to peers  in class)
+
 Weekly Assignments - 20% (This includes weekly code submissions)
-Project Documentation (blog posts) - 15%
+
+Documentation (blog posts) - 15%
+
 Project 1 - 15% (Details listed in Grading Rubrics below)
+
 Project 2 - 15% (Details listed in Grading Rubrics below)
+
 Final Project - 20% (Details listed in Grading Rubrics below)
 
 **Grading Rubric**
