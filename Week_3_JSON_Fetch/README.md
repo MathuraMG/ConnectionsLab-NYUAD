@@ -97,6 +97,7 @@ fetch('http://api.open-notify.org/astros.json')
 
 **List of APIs**
 * https://rapidapi.com/collection/list-of-free-apis
+* [Google trends](https://trends.google.com/trends/)
 * [People in space](http://api.open-notify.org/astros.json)
 * [Wikipedia](http://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=)
 * [Openweather - the basics are free](https://openweathermap.org/api)
