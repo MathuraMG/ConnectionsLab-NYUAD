@@ -99,7 +99,7 @@ C+         65 - 69
 
 ### Project Briefs
 **Project 1 - Due Week 5**
-Create a web application that utilizes both a data set and the p5.js library. The data you incorporate can be static or dynamic, and it should be “represented” in some way in a p5 sketch embedded on your web page.  Your web page should include at least a .html file, a .css file and a .js file. At least one user interaction is required. The interaction could be a user providing input to make a specific data request, a user affecting the contents of a p5 sketch, or a user doing something else. It’s up to you but the user should be able to do something! And you are welcome to have multiple “interactions”, but you need at least one.
+Create a web application that utilizes both a data set and the p5.js library (p5.js is upto you). The data you incorporate can be static or dynamic, and it should be “represented” in some way in a p5 sketch embedded on your web page.  Your web page should include at least a .html file, a .css file and a .js file. At least one user interaction is required. The interaction could be a user providing input to make a specific data request, a user affecting the webpage, or a user doing something else. It’s up to you but the user should be able to do something! And you are welcome to have multiple “interactions”, but you need at least one.
 
 Here are some examples to help you think through possible project ideas. Note, these examples are not exact representations of what you are being asked to do. Rather, they are offered here as inspiration for the direction or type of work you might consider doing.
 
