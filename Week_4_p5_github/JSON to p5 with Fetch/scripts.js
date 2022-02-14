@@ -1,4 +1,8 @@
-window.addEventListener("load", function(){
+/*----- p5 Code ------*/
+//Declared in the Global Scope
+let astroData;
+
+function preload() {
     let dataURL = "http://api.open-notify.org/astros.json";
     fetch(dataURL)
         .then(response => response.json())
@@ -7,11 +11,7 @@ window.addEventListener("load", function(){
             //Do work
             astroData = data;
         });
-});
-
-/*----- p5 Code ------*/
-//Declared in the Global Scope
-let astroData;
+}
 
 function setup(){
     console.log("Setup!");
