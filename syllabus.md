@@ -79,8 +79,10 @@ Concept + Creativity - 25%
 * Exhibits a purposeful direction with intention to produce a desired experience/message/emotion/outcome
 * Builds upon the affordances of the web to engage users in playful,  intentional, and/or reflective interactions.
 
-Documentation - 25%
+Documentation and Presentation - 25%
 * Provides a clear description of the project, production decisions (i.e. technical, design, conceptual, creative etc), influences and inspiration, key challenges and solutions, overall lessons learned as well as potential next steps, and relevant references/resources that were utilized. 
+* Deliver the presentation in a clear manner in the given time limit
+* Ensure that all aspects of project are covered during presentation
 * Appropriate attribution must be provided to noteworthy material utilized in service of  the research, production and delivery of the project
 
 **Course Grading Calculation**
