@@ -68,3 +68,23 @@ B          75 - 82
 B-         70 - 74
 
 C+         65 - 69
+
+
+
+## Presentation Order
+
+1. Asare,Eric
+1. Singh,Aakarsh
+1. Lee,Soojin
+1. Chen,Christopher
+1. Ugartechea Palma,Andres
+1. Karishev,Shyngys
+1. Maratkyzy,Adina
+1. Timilsina,Dixit
+1. Azhar,Abraiz
+1. Amarsanaa,Oyungerel
+1. Waleed,Alia
+1. Pienkosz,Marta
+1. Sharaf,Aalya
+1. Nassar,Fatema
+1. Kwon,Yeji
