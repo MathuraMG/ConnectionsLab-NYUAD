@@ -95,12 +95,15 @@ fetch('http://api.open-notify.org/astros.json')
 * Let's add p5 into our html
 * How can we draw an ellispe in p5? Can we link it to the data we have?
 
-**List of APIs**
+### **List of Data Sources**
 * https://rapidapi.com/collection/list-of-free-apis
+* [Google trends](https://trends.google.com/trends/)
 * [People in space](http://api.open-notify.org/astros.json)
 * [Wikipedia](http://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=)
 * [Openweather - the basics are free](https://openweathermap.org/api)
 * [PokemonAPI](https://pokeapi.co/)
+* [More datasets - Olympics, jeopardy etc](https://domohelp.domo.com/hc/en-us/articles/360043931814-Fun-Sample-DataSets)
+* [Space Data](https://api.le-systeme-solaire.net/en/)
 * PS - different countries maintain their data sets as well - do check that out! Here's a few
   * https://opendata.cityofnewyork.us/
   * https://data.gov.in/
