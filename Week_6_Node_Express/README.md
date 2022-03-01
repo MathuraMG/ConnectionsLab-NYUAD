@@ -9,6 +9,7 @@
   * Check if it is already installed in your system
   * Run node in terminal
   * Write a js program and run it from the terminal
+  * How to open VSCode from terminal - https://code.visualstudio.com/docs/setup/mac
 * npm modules
   * What is an npm module
   * What is [express](https://www.npmjs.com/package/express) 
