@@ -18,7 +18,7 @@
 **Nodemon**
 * Up until now, we have had to restart the server everytime we make a change.
 * There is a node package that will automatically do this for us - `nodemon`
-* Go ahead and install it globally in your system by saying `nodemon install -g nodemon`. You can run it from any location.
+* Go ahead and install it globally in your system by saying `npm install -g nodemon`. You can run it from any location.
 * This will install it across your system as opposed to just this one project
 * now go ahead and make a change to your server. You will automatically see it refresh
 
