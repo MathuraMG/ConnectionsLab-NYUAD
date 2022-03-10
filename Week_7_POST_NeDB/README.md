@@ -145,3 +145,50 @@ app.use(bodyParser.urlencoded({
 }));
 ```
 * A stackoverflow answer I enjoyed on express parser
+
+
+
+## What is NeDB ? What is a database? What is a NoSQL database?
+* Description 
+* An “In-Memory” Database - lives “with the server”
+* A NoSQL Database - a “non-relational” database
+
+*  STEPS to add it in the code - all taken from here - https://www.npmjs.com/package/nedb
+1. Install : npm install --save nedb
+1. Include it in index.js
+```
+//DB initial code
+let Datastore = require('nedb'); 
+let db = new Datastore('coffee.db'); //creates a new one if needed
+db.loadDatabase(); //loads the db with the data
+```
+ c. In the post route in the server, remove the lines that save the messages into the local array
+  // messages.messages.push(req.body.msg);
+  // res.send({task: "success"});
+
+And create an object to save in the DB instead (added date to this as well)
+let currentDate = Date();
+  let obj = {
+      date: currentDate,
+      message: req.body.msg
+  }
+
+  db.insert(obj,(err, newDocs)=>{
+      if(err) {
+          res.json({task: "task failed"});
+      } else {
+          res.json({task:"success"});
+      }
+
+  })
+D. In the GET route, use the db.find function to retrieve all the messages.
+db.find({}, (err, docs)=> {
+       if(err) {
+           res.json({task: "task failed"})
+       } else {
+           let obj = {messages: docs};
+           res.json(obj);
+       }
+   })
+ REMEMBER - we have to make changes on the client side code so that we can access the object. Right now, it will display [Object object]
+
