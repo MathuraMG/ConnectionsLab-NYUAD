@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="app.js"></script>
+  <link rel="stylesheet" href="style.css"/>
+  <title>Document</title>
+</head>
+<body>
+
+  <!-- HEader -->
+  <header class="header container">
+    <img src="https://placekitten.com/100/100"/>
+    <h1>Connecter</h1>
+  </header>
+
+  <!-- Feed of posts -->
+  <section class="container">
+    <ul class="posts">
+      <li class="post">
+        <h2 class="post__person">XYZ</h2>
+        <h3 class="post__time">Date | Time</h3>
+        <p class="post__content">This is the actual post, things I want to say</p>
+      </li>
+    </ul>
+  </section>
+  
+  <!-- Button to add a new post -->
+  <section class="container">
+    <div class="new">
+      <button class="new__button" id="new__button">post__content</button>
+    </div>
+  </section>
+
+  <!-- Creating new posts -->
+  <section class="create">
+    <div class="create__container" id="create__container">
+      <label for="name">Name :</label>
+      <input type="text" id="name" name="name" class="create__name" required> 
+      <label for="post">Post :</label>
+      <input type="text" id="post" name="post" class="create__post" required> 
+      <button class="create__button" id="create__button">Post</button>
+    </div>
+  </section>
+  
+</body>
+</html>
