@@ -30,9 +30,13 @@ app.post('/message', (req,res) => {
   res.json({"message": "OK"});
 })
 
+
+//api to get all the messages
+
 app.get('/messages', (req,res) => {
   let dataToSend;
-  db.find({}, function (err, docs) {
+  
+  db.find({}).sort({ createdAt: -1 }).exec(function (err, docs) {
     console.log(docs);
     dataToSend = {data: docs};
     res.json(dataToSend);

@@ -2,6 +2,11 @@ console.log("hello");
 window.addEventListener("load", ()=> {
 
   //fetch the /messages api and load the information. Show it on the "feed" section when the page loads
+  fetch("/messages")
+  .then(res => res.json())
+  .then((data)=> {
+    console.log(data);
+  })
 
   //hide the pop over on start
   let createPostDiv = document.getElementById("create__container");
