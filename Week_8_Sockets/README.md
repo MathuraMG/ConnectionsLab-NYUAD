@@ -118,3 +118,10 @@ function drawPos(pos) {
 Try and make changes to this now!
 * Change the shape sent 
 * Randomise the colours for each user and send that information across as well 
+
+### Homework
+MAKE a Node-Express app that incorporates Socket.io. You are welcome to continue working with a previous project or start a new one. Try to incorporate the following:
+* At least one ‘emit’ event on the server-side and one ‘emit’ event on the client-side
+* The ability to open 2 browser tabs and share data in real-time between the two
+**NOTE** : Upload the code to glitch and submit the glitch link along with documentation by noon on March 28 (Monday)
+
