@@ -28,5 +28,5 @@
 * DEMO Private Chat Rooms - Github = https://github.com/MathuraMG/IMA-Low-Res-Connections-Lab/tree/master/Week_09%7CMore_with_sockets/Chat_App_With_Rooms 
 
 ## Killing stale servers
-* ps -ef  grep index.js
-* kill -9 PID
+* `ps -ef | grep index.js`
+* `kill -9 PID`
