@@ -1,30 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="style.css" rel="stylesheet">
-    </link>
-    <title>Chat - Single Page</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
 </head>
-
 <body>
-    <div class="container">
-        <!-- View chat messages here here -->
-        <div class="sub-container chat-feed">
-            <div class="chat-header">Chat Box</div>
-            <div class="chat-box" id="chat-box-msgs"></div>
-        </div>
+  <!-- Enter chat messages here -->
+  <form class="sub-container " id="join-form">
+    <input type="text" class="chat-input-name" id="name-input" placeholder="Name" required/>
+    <input type="text" class="chat-input-msg" id="room-input" placeholder="Room Name" required/>
+    <button id="join-button">Join Room</button>
+  </form>
 
-        <!-- Enter chat messages here -->
-        <div class="sub-container chat-input">
-            <input type="text" class="chat-input-name" id="name-input" placeholder="Name" />
-            <input type="text" class="chat-input-msg" id="msg-input" placeholder="Message" />
-            <button id="send-button">Send</button>
-        </div>
-    </div>
-
-    <script type="text/javascript" src="/socket.io/socket.io.js"></script>
-    <script src="app.js"></script>
+  <script src="lobby.js"></script>
 </body>
 </html>
