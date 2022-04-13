@@ -10,7 +10,18 @@ let server = http.createServer(app);
 
 //Initialize socket.io
 let io = require('socket.io');
-io = new io.Server(server);
+const { instrument } = require("@socket.io/admin-ui");
+io = new io.Server(server, {
+    cors: {
+      origin: ["https://admin.socket.io"],
+      credentials: true
+    }
+  });
+
+  instrument(io, {
+    auth: false
+  });
+  
 
 //create a variable to store ALL messages since server started
 let messages = []; // TODO : remember that since we have rooms now, this variable is not the best idea. Either we should add the room data too, or creatae multiple arrays within
