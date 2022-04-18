@@ -60,3 +60,8 @@ ConnectionsLabSpring22/tree/master/Week_11_Client_Side/ML5_Hello_World"
         A nose drawing app with ML5 - Code
     </a>
 </li>
+
+## Homework (Due April 21st BEFORE CLASS)
+* READ the Final Project Brief and come to class prepared to share at least one project idea. [Add your idea here](https://docs.google.com/document/d/1y3HMEygv5-FFvFV3g3JQWCcg7wEPwZOvIFZBkkj6KSk/edit?usp=sharing)
+* MAKE a simple page with one of the following libraries - D3, Three.js, Ml5, Aframe, Tone.js, Rivescript, Leaflet. Ensure that you work with a library that you have not worked with before
+* DOCUMENT your progress and learnings from the making of the webpage
