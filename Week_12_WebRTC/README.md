@@ -46,6 +46,8 @@ HTTPS  with local certificates USED to be allowed in chrome,  but is not curre
 
 ## Git and github
 
+*(Video Reference)[https://drive.google.com/drive/u/1/folders/1buPgAh2pjBLIMX6N4JR97PdinNKknHir]*
+
 ### Install git
 * Installing git - https://git-scm.com/downloads
 * NOTE: For Mac users, the preferred method to install git would be to first install homebrew - https://git-scm.com/download/mac
