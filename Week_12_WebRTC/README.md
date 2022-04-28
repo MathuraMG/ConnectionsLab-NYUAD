@@ -44,3 +44,38 @@ HTTPS  with local certificates USED to be allowed in chrome,  but is not curre
 5. It will be set to “Disabled”. Set to “Enabled”
 6. Restart Chrome again
 7. Run example
+
+## Git and github
+
+*(Video Reference)[https://drive.google.com/drive/u/1/folders/1buPgAh2pjBLIMX6N4JR97PdinNKknHir]*
+
+### Install git
+* Installing git - https://git-scm.com/downloads
+* NOTE: For Mac users, the preferred method to install git would be to first install homebrew - https://git-scm.com/download/mac
+
+### Common git commands
+* To initialise a git repository (i.e. repo)
+  *  Go to the folder where the code you want to work with lives. This is colloquially known as the root folder
+  * `git init`
+* To find the status of your repo (this command is your best friend)
+  * `git status`
+  * NOTE: You can also type git status -s which will display a shorthand version
+* To track the files that are present in your repository
+  * `git add -A .`
+  * NOTE: You can also just type git add -A without the . at the end
+* To commit the files that are present in your repository
+  * git commit -m “your message”
+  * NOTE: The message must be in wrapped in quotes
+* To find difference in files
+  * git diff
+
+### QUESTION: When should you make git commits?
+* You only need  to run git add  and git commit after a bulk of changes, not after every individual change. Think of it in the same frequency as you would when you decide to save a new file or version (file_2.txt).
+* Basically, you do not need to do it after every single change. It’s common to make a commit at the end of a session of working , or at the end of the day, or after you’ve gotten the project to a stable working place and would like  to ensure that you have a version "saved".
+* Rules to remember when you're initialising a repo
+  1. ONLY create a git repo ONCE for a project.
+  1. It should be made (i.e. initialized) at the same directory level as the main parent folder that contains all of the files for your individual project.
+  1. Do NOT make a git repository inside a folder that has already been initialized as a git repository. Also, avoid placing a folder that has a git repository associated with it inside another folder that has a git repository associated with it.
+  1. Do NOT make a git repository for a parent folder that has a git repository already inside it.
+  1. Basically, git repositories should be singular,  unique to a project and not associated with other git repositories. A git repository  should be  tied to the parent folder of a project, and separated from other parent project folders that are git repositories. 
+
