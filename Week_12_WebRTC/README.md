@@ -4,6 +4,7 @@
 * Housekeeping - attendance
 * Little parts of project 2 to be completed
 * WebRTC
+   Test out github
 
 ## WebRTC
 [P5 live stream](https://github.com/vanevery/p5LiveMedia) - tons of front end examples. Let’s walk through the documentation together
