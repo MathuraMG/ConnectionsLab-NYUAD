@@ -5,12 +5,12 @@
 * Time:
     Theory Classes - 10:25-11:40am Tues
     Lab Classes - 10:25am-1:05pm Thurs
-* Class Location: TBA
+* Class Location: C3-019
 * Class Github: 
 * Recommended Prerequisites: None
 * Instructor: Mathura Govindarajan mathura.mg@nyu.edu
 * Office Location: C3-137
-* Office Hours: TBA
+* Office Hours: On-demand
 
 This is all subject to change
 
