@@ -1,17 +1,2 @@
 **List of Student Repos**
-* [Amarsanaa,Oyungerel](https://github.com/OyungerelA/Connections_Lab)
-* [Asare,Eric](https://github.com/eric-asare/ConnectionsLab)
-* [Azhar,Abraiz](https://github.com/Abraiz01/Connections-Lab)
-* [Chen,Christopher](https://github.com/chen-christopher/connectionsLab)
-* [Karishev,Shyngys](https://github.com/karishev/ConnectionsLabSring2022)
-* [Kwon,Yeji](https://github.com/yk1932/connectionsLab)
-* [Lee,Soojin](https://github.com/Soojin-Lee0819/connectionsLab)
-* [Maratkyzy,Adina](https://github.com/renaidn/ConnectionsLab)
-* [Nassar,Fatema](https://github.com/fnassar/connectionslab)
-* [Pienkosz,Marta](https://github.com/martapienkosz/connectionslab)
-* [Sharaf, Aalya](https://github.com/AalyaSharaf/ConnectionsLabSpring2022)
-* [Singh,Aakarsh](https://github.com/AakSin/connectionsLab)
-* [Timilsina,Dixit](https://github.com/dt1930/connections_labs2022)
-* [Ugartechea Palma,Andres](https://github.com/andresugartechea/ConnectionsLab)
-* [Waleed,Alia](https://github.com/aliawaleed/connectionsLab)
-
+* [Name](https://github.com/)
