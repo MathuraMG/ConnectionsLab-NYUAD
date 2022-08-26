@@ -8,16 +8,15 @@ Section: 1
 Credit Hours: 4         
 Prerequisites: None       
 
-Course website: [https://github.com/MathuraMG/ConnectionsLab-NYUAD](https://github.com/MathuraMG/ConnectionsLab-NYUAD)   
-Course Brightspace: [Connections Lab](https://brightspace.nyu.edu/d2l/home/213252)   
-Instructor: Mathura Govindarajan mathura.mg@nyu.edu    
-Office hours: By appointment  
-Meeting times:
-    Theory Classes - 09:55 AM - 11:10 AM Tuesday
-    
-    Lab Classes - 09:55 AM - 12:35 PM Thursday
-Session: Fall 2022    
-
+**Session**: Fall 2022    
+**Course website**: [https://github.com/MathuraMG/ConnectionsLab-NYUAD](https://github.com/MathuraMG/ConnectionsLab-NYUAD)   
+**Course Brightspace**: [Connections Lab](https://brightspace.nyu.edu/d2l/home/213252)   
+**Instructor**: Mathura Govindarajan mathura.mg@nyu.edu    
+**Office hours**: By appointment  
+**Meeting times**:
+* Theory Classes - 09:55 AM - 11:10 AM Tuesday
+* Lab Classes - 09:55 AM - 12:35 PM Thursday
+* 
 **Class location:  Online. Zoom link on [Brightspace](https://brightspace.nyu.edu/d2l/home/213252)**
 
 Welcome to Connections Lab. All class material can be found in the below links.
@@ -26,4 +25,3 @@ Welcome to Connections Lab. All class material can be found in the below links.
 
 [Weekly Schedule](weeklySchedule.md) Includes homework and projects assignments
 
-The current session is spring 2022.
