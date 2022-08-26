@@ -14,6 +14,7 @@ Instructor: Mathura Govindarajan mathura.mg@nyu.edu
 Office hours: By appointment  
 Meeting times:
     Theory Classes - 09:55 AM - 11:10 AM Tuesday
+    
     Lab Classes - 09:55 AM - 12:35 PM Thursday
 Session: Fall 2022    
 
