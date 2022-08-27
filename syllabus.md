@@ -132,7 +132,7 @@ Create a web application that has both client-side and server side code. You are
 **Games**
 * [Not Parkor](https://not-parkour.herokuapp.com/)
 * [NYUAD Expo](https://explore-nyuad.glitch.me/)
-* [Scavenger Hunt](https://slenderman-scavenger-hunt.glitch.me/)
+* [Scavenger Hunt](https://slenderman-scavenger-hunt.glitch.me/) - [documentation](https://github.com/fnassar/Slenderman)
 
 **Interactive Experience**
 * [Cam Jam](https://camjam1.glitch.me/)
