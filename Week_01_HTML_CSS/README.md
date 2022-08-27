@@ -2,14 +2,15 @@
 ### Aug 30 9:55 AM - 11:10 AM
 
 **Topics covered in class**
-* Overview of the class
+* Overview of the class 
 * Google experiments examples
-* Install VSCode
+* [Class structure, Past students work](https://github.com/MathuraMG/ConnectionsLab-NYUAD/blob/master/syllabus.md)
+* [Install VSCode](https://code.visualstudio.com/)
 * Setup github [Github for documentation](https://github.com/MathuraMG/Resources/blob/main/Github-for-documentation.md) | [Markdown](https://markdown-it.github.io/)
 
 ### **Assignment - Due Sep 1 - 9:55am**
-* Pick a connected applicaiton of your choice. It can be from [the list we looked at in class] or otherwise. Write a 300-500 word critique on the application. What do you think works? What doesn't? What would you like to do differently? *This has to be available on your github*
-* Make sure you have joined the discord channel
+* Pick a connected application of your choice. It can be from [the list we looked at in class] or otherwise. Write a 300-500 word critique on the application. What do you think works? What doesn't? What would you like to do differently? *This has to be available on your github*
+* Make sure you have joined the discord channel and introduce yourself!
 * Install VSCode - https://code.visualstudio.com/
 
 ## Class 1 - Part 2
