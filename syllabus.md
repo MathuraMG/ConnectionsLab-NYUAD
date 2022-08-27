@@ -124,6 +124,22 @@ Additional inspiration:
 Create a web application that has both client-side and server side code. You are welcome to continue working on Project #2, return to Project #1, or start an entirely new project. Similar to Project #2, users who engage with your application site must have some ability to “connect” with other users. This could be done by collecting  user data, storing it in a database, and sharing it back with other users. Or this could be done by incorporating real-time connections and communication via Sockets or WebRTC. You are welcome to use any client-side javascript library you like, but you should use at least one.
 
 ### Past Student Work
+**Front end websites**
+* [Names around the world](https://soojin-lee0819.github.io/connectionsLab/Project1/)
+* [Quotes Cafe](https://yk1932.github.io/quotesCafe/)
+* [Travel with Curiosity](https://abraiz01.github.io/Connections-Lab/Week3/Project_1/index.html)
+
+**Games**
+* [Not Parkor](https://not-parkour.herokuapp.com/)
+* [NYUAD Expo](https://explore-nyuad.glitch.me/)
+* [Scavenger Hunt](https://slenderman-scavenger-hunt.glitch.me/)
+
+**Interactive Experience**
+* [Cam Jam](https://camjam1.glitch.me/)
+
+**Tools**
+* [Stick It](https://stick-it-2.glitch.me/)
+
 
 
 ### Course Schedule
@@ -187,15 +203,15 @@ You are expected to attend your assigned section each week. For your section, we
 
 You will be required to present your projects in class on the days the projects are due. Project presentation weeks  are as follows:
 
-Mid-Term Project 1 -  Week 5 - Feb 24th
+Mid-Term Project 1 -  Week 5 - Sept 29th
 
-Mid-Term Project 2 - Week 10 - April 7th
+Mid-Term Project 2 - Week 10 - Nov 10th
 
-FInal Project - Week 14 - May 12th
+FInal Project - Week 14 - Dec 12th
 
 ### Participation
 * Sustained participation that demonstrates thoughtful engagement with the course materials is a requirement to succeed in this class.
-* Active participation helps us, your instructors, get to know you as individuals and keep track of your progress. It also provides both you and your classmates greater opportunities to learn from one another. 
+* Active participation helps us, your instructors, get to know you as individuals and keep track of your progress. It also provides both you and your classmates greater opportunities to learn from one another.
 * Ways to Participate During Class
     * Be present, attentive, and mindful.
     * Contribute to class discussions by raising questions, supporting/challenging points of interest, offering feedback to other student’s ideas, making connections to examples and material across the program, and sharing relevant personal experiences and perspectives.
