@@ -12,6 +12,7 @@
 * Pick a connected application of your choice. It can be from [the list we looked at in class] or otherwise. Write a 300-500 word critique on the application. What do you think works? What doesn't? What would you like to do differently? *This has to be available on your github*
 * Make sure you have joined the discord channel and introduce yourself!
 * Install VSCode - https://code.visualstudio.com/
+* **Read this** - [Red Burns](https://www.wired.com/2013/09/focus-on-people-not-tech-and-other-impt-lessons-for-interaction-design-and-life/)
 
 ## Class 1 - Part 2
 ### Sep 1 9:55 AM - 12:35 PM
