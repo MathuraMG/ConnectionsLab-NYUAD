@@ -84,7 +84,7 @@
     * p tag
     * headings
     * a tag
-  * In your css, implement flex in some part of the page.
+  * In your css, try to implement flex in some part of the page.
   * Upload your code on github, and share the working link in your documentation
 
 * DOCUMENT your progress and learnings from the making of the webpage
