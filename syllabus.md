@@ -10,6 +10,10 @@
 * Recommended Prerequisites: Intro to IM, Intro to programming,
 * Instructor: Mathura Govindarajan mathura.mg@nyu.edu
 * Office Hours: On-demand
+* Degree Requirement satisfied : Majors > Interactive Media > Computational Media
+
+
+
 
 This is all subject to change
 
