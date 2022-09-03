@@ -16,7 +16,7 @@ Prerequisites: None
 **Meeting times**:
 * Theory Classes - 09:55 AM - 11:10 AM Tuesday
 * Lab Classes - 09:55 AM - 12:35 PM Thursday
-* 
+
 **Class location:  Online. Zoom link on [Brightspace](https://brightspace.nyu.edu/d2l/home/213252)**
 
 Welcome to Connections Lab. All class material can be found in the below links.
@@ -24,4 +24,3 @@ Welcome to Connections Lab. All class material can be found in the below links.
 [Syllabus](syllabus.md)
 
 [Weekly Schedule](weeklySchedule.md) Includes homework and projects assignments
-
