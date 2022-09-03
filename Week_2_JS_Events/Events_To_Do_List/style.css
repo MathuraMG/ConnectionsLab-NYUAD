@@ -1,0 +1,40 @@
+body {
+  background: salmon;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 60vh;
+  background: white;
+  width: 80%;
+  margin: 20vh auto;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  width: 60%;
+  margin: 10% auto;
+}
+
+.list__item {
+  border-bottom: 1px solid #aaa;
+  padding: 0 10%;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.list__button {
+  height: fit-content;
+}
+
+.list__item--done {
+  text-decoration: line-through;
+}

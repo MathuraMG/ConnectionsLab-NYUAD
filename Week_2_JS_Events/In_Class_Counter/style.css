@@ -1,0 +1,12 @@
+body {
+  background-color: salmon;
+}
+
+.counter {
+  display: flex;
+  flex-direction: row;
+}
+
+.counter__display {
+  font-size: 20rem;
+}

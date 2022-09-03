@@ -1,0 +1,25 @@
+body {
+  background-color: peachpuff;
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+.container {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /* background-color: yellow; */
+}
+
+.list-item {
+  color: green;
+}
+
