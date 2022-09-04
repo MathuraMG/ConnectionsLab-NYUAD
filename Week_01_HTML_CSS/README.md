@@ -55,10 +55,10 @@
 
 * Making a webpage with a wireframe
   * As part of your homework, you will have to create a wireframe and make a webpage. You may use the below links as a reference.
-  * [Design that we are trying to replicate](https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/Week_1_HTML_CSS/Show_A_Thing.pdf)
-  * [Webpage - part 1](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/ShowAThing_1_HTML/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/ShowAThing_1_HTML)
-  * [Webpage - part 2](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/ShowAThing_2_CSS/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/ShowAThing_2_CSS)
-  * [Webpage - part 3 - completed](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/ShowAThing_3_Design_Complete/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/ShowAThing_3_Design_Complete)
+  * [Design that we are trying to replicate](https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/Week_01_HTML_CSS/Show_A_Thing.pdf)
+  * [Webpage - part 1](https://mathuramg.com/ConnectionsLabSpring22/Week_01_HTML_CSS/ShowAThing_1_HTML/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_01_HTML_CSS/ShowAThing_1_HTML)
+  * [Webpage - part 2](https://mathuramg.com/ConnectionsLabSpring22/Week_01_HTML_CSS/ShowAThing_2_CSS/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_01_HTML_CSS/ShowAThing_2_CSS)
+  * [Webpage - part 3 - completed](https://mathuramg.com/ConnectionsLabSpring22/Week_01_HTML_CSS/ShowAThing_3_Design_Complete/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_01_HTML_CSS/ShowAThing_3_Design_Complete)
 
 * Look at the Developer Tools (Go over the DOM time permitting)
   * You can open the developer tools on Chrome using the shortcut: Command + Option + J (Mac) or Control + Shift + J (Windows, Linux, Chrome OS)
