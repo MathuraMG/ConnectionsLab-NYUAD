@@ -28,7 +28,7 @@
   * `p`, `h1`, `h2`, `a`, `img` tags
   * `ul`, `li` - use these tags to make lists. `ul` can be used for Unordered lists, and `ol` for ordered lists
   * `div` - use this tag when you need to make a logical division in your structure and hierarchy. Keep in mind that this has no visual or accessible use.
-  * [HTML Boilerplate](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/HTML_Boilerplate/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/HTML_Boilerplate)
+  * [HTML Boilerplate](https://mathuramg.com/ConnectionsLabSpring22/Week_01_HTML_CSS/HTML_Boilerplate/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_01_HTML_CSS/HTML_Boilerplate)
 
 * Intro to CSS
   * What is CSS - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in HTML
@@ -42,16 +42,16 @@
     * margin
     * padding
   * Naming convention that we will use - [BEM](http://getbem.com/naming/)
-  * [Cat Page](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/Simple_Cat_Page/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/Simple_Cat_Page)
+  * [Cat Page](https://mathuramg.com/ConnectionsLabSpring22/Week_01_HTML_CSS/Simple_Cat_Page/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Weeks 1_HTML_CSS/Simple_Cat_Page)
 
 * Flexbox -
   * The flex layout allows to create flexible elements on a webpage
   * It works with the `display` property in css. It can values such as `block`, `none`, `flex` etc. We will be using `flex` quite a bit.
   * Once within flex, the 2 main properties we will look at are `justify-content`, and `align-items`. To practice flexbox, try out [Flexbox Froggy](https://flexboxfroggy.com/)
-  * [Flex example 1](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Flex_01/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Flex_01)
-  * [Flex example 2](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Flex_02/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Flex_02)
+  * [Flex example 1](https://mathuramg.com/ConnectionsLabSpring22/Week_01_HTML_CSS/CSS_Layout_Flex_01/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_01_HTML_CSS/CSS_Layout_Flex_01)
+  * [Flex example 2](https://mathuramg.com/ConnectionsLabSpring22/Week_01_HTML_CSS/CSS_Layout_Flex_02/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_01_HTML_CSS/CSS_Layout_Flex_02)
 * Responsive CSS
-  * [Responsive example](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Fluid_Responsive/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Fluid_Responsive)
+  * [Responsive example](https://mathuramg.com/ConnectionsLabSpring22/Week_01_HTML_CSS/CSS_Layout_Fluid_Responsive/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_01_HTML_CSS/CSS_Layout_Fluid_Responsive)
 
 * Making a webpage with a wireframe
   * As part of your homework, you will have to create a wireframe and make a webpage. You may use the below links as a reference.
