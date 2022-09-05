@@ -14,3 +14,4 @@
 * [Talip,Aibar](https://github.com/aibartt/Assignment1_Aibar)
 * [Tayel,Yahia Beethoven](https://github.com/yahiabeethoven/ConnectionsLab)
 * [Tran,Linh]()
+* [Zia, Hashim](https://github.com/hashimzia/ConnectionsLab)
