@@ -48,7 +48,7 @@
   * TO DO : Create variables in javascript. Try working with/ adding strings and numbers in the console
   * TO DO : create a js file, include it in our html page
 
-💻🔹 **[CODE - JS](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/JS/)**
+💻🔹 **[CODE - JS](https://mathuramg.com/ConnectionsLab-NYUAD/Week_2_JS_Events/JS/)**
 
 * Now we can access the DOM and try manipulating it from within the browser
   * access the DOM object - `document`
@@ -72,7 +72,7 @@
   * Maybe responsive too
   * Grab a google font
 
-💻🔹 **[CODE - Counter](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events/)**
+💻🔹 **[CODE - Counter](https://mathuramg.com/ConnectionsLab-NYUAD/Week_2_JS_Events/Events/)**
 
 * Let's make a TO Do list
   * add an input box where you can enter the new item
@@ -80,24 +80,24 @@
   * When the user hits enter after typing in the item, create a list item with the action
   * add a button assiciated to each list item that helps scratch off the item
 
-💻🔹 **[CODE - To Do list](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_To_Do_List/)**
+💻🔹 **[CODE - To Do list](https://mathuramg.com/ConnectionsLab-NYUAD/Week_2_JS_Events/Events_To_Do_List/)**
 
 * Demo the scroll example
 
-💻🔹 **[CODE - Events_Scroll](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_Scroll/)**
+💻🔹 **[CODE - Events_Scroll](https://mathuramg.com/ConnectionsLab-NYUAD/Week_2_JS_Events/Events_Scroll/)**
 
 * using Es6 syntax for functions
 * Go over the homework and example interactions!
 
-💻🔹 **[CODE - Events Arrays Images](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_arrays_images/)**
+💻🔹 **[CODE - Events Arrays Images](https://mathuramg.com/ConnectionsLab-NYUAD/Week_2_JS_Events/Events_arrays_images/)**
 
-💻🔹 **[CODE - Events Arrays Text](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_arrays_text/)**
+💻🔹 **[CODE - Events Arrays Text](https://mathuramg.com/ConnectionsLab-NYUAD/Week_2_JS_Events/Events_arrays_text/)**
 
-💻🔹 **[CODE - Events Colour](https://mathuramg.com/ConnectionsLabSpring22/Week2_JS_Events/Events_color/)**
+💻🔹 **[CODE - Events Colour](https://mathuramg.com/ConnectionsLab-NYUAD/Week_2_JS_Events/Events_color/)**
 
-💻🔴 **[CODE - In Class Counter](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week2_JS_Events/In_Class_Counter)**
+💻🔴 **[CODE - In Class Counter](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Week_2_JS_Events/In_Class_Counter)**
 
-💻🔴 **[CODE - In Class To Do List](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week2_JS_Events/In_Class_To_Do_List)**
+💻🔴 **[CODE - In Class To Do List](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Week_2_JS_Events/In_Class_To_Do_List)**
 
 
 **Resources**
