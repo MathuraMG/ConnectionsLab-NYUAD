@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.container-v {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: palegreen;
+}
+.box1 {
+  width: 100px;
+  height: 120px;
+  background-color: palegreen;
+}
+.box2 {
+  width: 100px;
+  height: 80px;
+}
