@@ -19,7 +19,7 @@
 
 **Topics covered in class**
 * Wireframes!
-  * https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/Week_1_HTML_CSS/1.1_Intro%20to%20Wireframes_Slides.pdf
+  * https://github.com/MathuraMG/ConnectionsLab-NYUAD/blob/master/Week_1_HTML_CSS/1.1_Intro%20to%20Wireframes_Slides.pdf
 
 * Intro to HTML
   * What is HTML - markup language for documents designed to be displayed in a web browser.
@@ -28,7 +28,7 @@
   * `p`, `h1`, `h2`, `a`, `img` tags
   * `ul`, `li` - use these tags to make lists. `ul` can be used for Unordered lists, and `ol` for ordered lists
   * `div` - use this tag when you need to make a logical division in your structure and hierarchy. Keep in mind that this has no visual or accessible use.
-  * [HTML Boilerplate](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/HTML_Boilerplate/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/HTML_Boilerplate)
+  * [HTML Boilerplate](https://mathuramg.com/ConnectionsLab-NYUAD/Week_01_HTML_CSS/HTML_Boilerplate/) | [Code](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Week_01_HTML_CSS/HTML_Boilerplate)
 
 * Intro to CSS
   * What is CSS - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in HTML
@@ -42,23 +42,23 @@
     * margin
     * padding
   * Naming convention that we will use - [BEM](http://getbem.com/naming/)
-  * [Cat Page](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/Simple_Cat_Page/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/Simple_Cat_Page)
+  * [Cat Page](https://mathuramg.com/ConnectionsLab-NYUAD/Week_01_HTML_CSS/Simple_Cat_Page/) | [Code](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Weeks 1_HTML_CSS/Simple_Cat_Page)
 
 * Flexbox -
   * The flex layout allows to create flexible elements on a webpage
   * It works with the `display` property in css. It can values such as `block`, `none`, `flex` etc. We will be using `flex` quite a bit.
   * Once within flex, the 2 main properties we will look at are `justify-content`, and `align-items`. To practice flexbox, try out [Flexbox Froggy](https://flexboxfroggy.com/)
-  * [Flex example 1](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Flex_01/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Flex_01)
-  * [Flex example 2](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Flex_02/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Flex_02)
+  * [Flex example 1](https://mathuramg.com/ConnectionsLab-NYUAD/Week_01_HTML_CSS/CSS_Layout_Flex_01/) | [Code](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Week_01_HTML_CSS/CSS_Layout_Flex_01)
+  * [Flex example 2](https://mathuramg.com/ConnectionsLab-NYUAD/Week_01_HTML_CSS/CSS_Layout_Flex_02/) | [Code](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Week_01_HTML_CSS/CSS_Layout_Flex_02)
 * Responsive CSS
-  * [Responsive example](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/CSS_Layout_Fluid_Responsive/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/CSS_Layout_Fluid_Responsive)
+  * [Responsive example](https://mathuramg.com/ConnectionsLab-NYUAD/Week_01_HTML_CSS/CSS_Layout_Fluid_Responsive/) | [Code](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Week_01_HTML_CSS/CSS_Layout_Fluid_Responsive)
 
 * Making a webpage with a wireframe
   * As part of your homework, you will have to create a wireframe and make a webpage. You may use the below links as a reference.
-  * [Design that we are trying to replicate](https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/Week_1_HTML_CSS/Show_A_Thing.pdf)
-  * [Webpage - part 1](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/ShowAThing_1_HTML/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/ShowAThing_1_HTML)
-  * [Webpage - part 2](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/ShowAThing_2_CSS/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/ShowAThing_2_CSS)
-  * [Webpage - part 3 - completed](https://mathuramg.com/ConnectionsLabSpring22/Week_1_HTML_CSS/ShowAThing_3_Design_Complete/) | [Code](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_1_HTML_CSS/ShowAThing_3_Design_Complete)
+  * [Design that we are trying to replicate](https://github.com/MathuraMG/ConnectionsLab-NYUAD/blob/master/Week_01_HTML_CSS/Show_A_Thing.pdf)
+  * [Webpage - part 1](https://mathuramg.com/ConnectionsLab-NYUAD/Week_01_HTML_CSS/ShowAThing_1_HTML/) | [Code](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Week_01_HTML_CSS/ShowAThing_1_HTML)
+  * [Webpage - part 2](https://mathuramg.com/ConnectionsLab-NYUAD/Week_01_HTML_CSS/ShowAThing_2_CSS/) | [Code](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Week_01_HTML_CSS/ShowAThing_2_CSS)
+  * [Webpage - part 3 - completed](https://mathuramg.com/ConnectionsLab-NYUAD/Week_01_HTML_CSS/ShowAThing_3_Design_Complete/) | [Code](https://github.com/MathuraMG/ConnectionsLab-NYUAD/tree/master/Week_01_HTML_CSS/ShowAThing_3_Design_Complete)
 
 * Look at the Developer Tools (Go over the DOM time permitting)
   * You can open the developer tools on Chrome using the shortcut: Command + Option + J (Mac) or Control + Shift + J (Windows, Linux, Chrome OS)
@@ -74,7 +74,7 @@
 
 ### Assignments
 * READ Scott Murray’s Interactive Data Visualisation for the Web [“Ch.3 Technology Fundamentals - Part 1”](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=4938502)  pp. 15-34
-* READ your classmate's critiques on their connected application. [You can find everyones repositories here.](https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/studentRepos.md). We will discuss them in class.
+* READ your classmate's critiques on their connected application. [You can find everyones repositories here.](https://github.com/MathuraMG/ConnectionsLab-NYUAD/blob/master/studentRepos.md). We will discuss them in class.
 * TRY OUT [Flexbox Froggie](https://flexboxfroggy.com/)
 * MAKE 2 simple wireframes of one of your present/past projects. If you have mpre than 2 wireframes, that's ok! Share all of them as part of your process.
 * MAKE a webpage version  of  the wireframe you have designed. Your assignment should include a .html file and a .css file.
