@@ -13,5 +13,5 @@
 * [Sun,Pangna](https://github.com/pangnasun/ConnectionsLab/blob/main/README.md)
 * [Talip,Aibar](https://github.com/aibartt/Assignment1_Aibar)
 * [Tayel,Yahia Beethoven](https://github.com/yahiabeethoven/ConnectionsLab)
-* [Tran,Linh]()
+* [Tran,Linh](https://github.com/LinhTran263/connections-lab)
 * [Zia, Hashim](https://github.com/hashimzia/ConnectionsLab)
