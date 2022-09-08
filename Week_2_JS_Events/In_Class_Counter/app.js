@@ -1,36 +1,46 @@
-let counter = 0;
-console.log("in the js file");
-window.addEventListener('load', function() {
-  console.log('html has loaded!!!!');
-  //initialise the counter value displayed
-  document.getElementById('counter-display').innerHTML = counter;
- 
-  //create a button and add a click listener to it
-  let button = document.getElementById("increase-button");
-  button.addEventListener('click', function() {
-    
-    //increment value of counter
-    counter++;
-    console.log('button is clicked, counter: ', counter);
-   
-    // show the counter value
-    document.getElementById('counter-display').innerHTML = counter;
+let count = 0;
+
+window.addEventListener('load', () => {
+  console.log('page loaded');
+
+  //set the counter initial value
+  let counterResult = document.getElementById("counter-result");
+  counterResult.innerHTML = count;
+
+  //get access to the button
+  let addButton = document.getElementById('counter-button-add');
+
+  addButton.addEventListener('click', () => {
+    count += 1; // count = count + 1;
+    counterResult.innerHTML = count;
   })
 
+  //get access to the button
+  let subButton = document.getElementById('counter-button-subtract');
+
+  subButton.addEventListener('click', () => {
+    count -= 1; // count = count + 1;
+    counterResult.innerHTML = count;
+  })
+
+
+  //scroll event listener
+  document.addEventListener('scroll', () => {
+    console.log('scrolling');
+  })
 });
 
-//STEP 1 : Created HTML elements - display + button
-//STEP 2 : Create a counter variable, set value to 0
-//STEP 3 : Add functionality to the button
-// -  get the button in javascript
-// - increment the counter value
-//STEP 4 : Have the counter displayed on screen
+/*
+window.addEventListener('load', function() {
+  console.log('page loaded');
+});
+*/
 
+/*
+window.addEventListener('load', loadPage);
 
-// Suggestions to make the app more intuitive
-// - make the counter value bigger
-// - add a clear button
-// - all elements should be bigger - center all the elements
-// = move - to the left, and + to the right, counter value in the center
-// have arrows on the top and bottom of number instead of + and - buttons
-// if mobile, add the interaction on bottom
+function loadPage() {
+  console.log('page loaded');
+};
+
+*/

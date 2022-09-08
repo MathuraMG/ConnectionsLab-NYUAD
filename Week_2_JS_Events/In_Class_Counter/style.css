@@ -1,12 +1,11 @@
 body {
-  background-color: salmon;
-}
-
-.counter {
+  background-color: blanchedalmond;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  align-items: center;
+  height: 4000px;
 }
 
-.counter__display {
-  font-size: 20rem;
+.container__result {
+  text-align: center;
 }

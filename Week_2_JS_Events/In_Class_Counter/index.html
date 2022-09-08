@@ -5,17 +5,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Counter</title>
-  <link href="style.css" rel="stylesheet"/>
-  
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js"></script>
 </head>
 <body>
 
-  <h1> Counter </h1>
-  <div class="counter">
-    <button class="counter__button" id="decrease-button">-</button>
-    <p class="counter__display" id="counter-display"></p>
-    <button class="counter__button" id="increase-button">+</button>
-  </div>
-  <script src="app.js"></script>
+  <h1 class="heading"> Counter </h1>
+  <section class="container">
+    <p id="counter-result" class="container__result">  </p>
+    <div>
+      <button id="counter-button-add" class="container__button"> + </button>
+      <button id="counter-button-subtract" class="container__button"> - </button>
+    </div>
+  </section>
+  
 </body>
 </html>

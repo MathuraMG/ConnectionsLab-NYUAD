@@ -1,23 +1,28 @@
+body {
+  background-color: yellow;
+}
+
 .container {
   display: flex;
   justify-content: space-between;
-}
-.container-v {
-  display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
+  width: 60%;
 }
 
 .box {
   width: 100px;
   height: 100px;
   background-color: palegreen;
+  margin-bottom: 20px;
 }
-.box1 {
-  width: 100px;
-  height: 120px;
-  background-color: palegreen;
-}
-.box2 {
-  width: 100px;
-  height: 80px;
+
+
+/* specific changes for mobile */
+@media screen and (max-width: 728px) {
+  body {
+    background-color: aquamarine;
+  }
+  .container {
+    width: 90%;
+  }
 }
