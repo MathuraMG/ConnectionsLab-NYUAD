@@ -1,0 +1,13 @@
+body {
+  background-color: red;
+}
+
+.list__item {
+  list-style-type: none;
+  padding: 2rem;
+}
+
+.list__item-color {
+  margin: 0;
+}
+
