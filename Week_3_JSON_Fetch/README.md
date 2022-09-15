@@ -120,10 +120,12 @@ fetch('http://api.open-notify.org/astros.json')
 
 * READ Chapter 2 - Affordances of the Digital Medium from this book [Janet H Murray: Inventing the Medium : Principles of Interaction Design As a Cultural Practice](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003762385&context=L&vid=NYUAD&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,Janet%20Murray&sortby=rank&mode=basic)
 * READ the [Project #1 brief](https://github.com/MathuraMG/ConnectionsLabSpring22/blob/master/syllabus.md#project-briefs)
-* SHARE and DOCUMENT your Project #1 ideas with the class via discord. Be ready to talk about your ideas in class next week.
+* SHARE and DOCUMENT your Project #1 ideas with the class via [google sheets](https://docs.google.com/document/d/1GY9VPnHrokxajfMmeK0hO6SFRNyb-2-ZHEU8DdG8STE/edit). Be ready to talk about your ideas in class next week.
 * MAKE an initial version of your project where data is displayed on the page either on page load or as a result of a user interaction. You are welcome to go further than this and start to incorporate p5, but you should at least have identified a data set that you intend to use and be able to properly display relevant info on the page. 
-* DOCUMENT  your progress and learnings from the making of the your initial version of the project
+* DOCUMENT  your progress and learnings from the making of the your initial version of the project. Here are some examples of what documentation can look like
+ * [Example documentation](https://fearless-operation-603.notion.site/Paper-Boats-That-Float-57806ef95b644f06b47b427020cd2755)
+ * [Example documentation](https://reeeecaa.notion.site/Connections-Lab-Final-Project-Documentation-41f220426a614780b58aca29aaf1ec99)
 * **Readings are due by class on Tuesday.** 
-* **Your project brief needs to be up on discord by 12 noon Feb 14th**
-* **Your github needs to be updated with a version/prototype of your project and the documentation by 12 noon Feb 14th**
+* **Your project brief needs to be up on google sheets by 5pm Sep 19th**
+* **Your github needs to be updated with a version/prototype of your project and the documentation by 5pm Sep 19th**
 
