@@ -1,13 +1,7 @@
 body {
-  background-color: red;
+  background-color: darksalmon;
 }
 
-.list__item {
-  list-style-type: none;
-  padding: 2rem;
+.content {
+  background-color: aquamarine;
 }
-
-.list__item-color {
-  margin: 0;
-}
-

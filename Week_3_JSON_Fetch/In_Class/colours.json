@@ -1,0 +1,7 @@
+{
+	"description": "this is a dataset of colours, and they hex values",
+	"colours": {
+		"red": "#ff0000",
+		"blue": "#0000ff"
+	}
+}
