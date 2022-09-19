@@ -4,6 +4,7 @@
 * [Alhameli,Fatema](https://github.com/FatemaAlhameli/ConnectionsLab/tree/main)
 * [Aljunaibi,Fatima](https://github.com/oomie/connectionslab/tree/main)
 * [Aouni,Youssef](https://github.com/Youssef-216/Connection_Lab)
+* [Dev, Bishnu](https://github.com/bordernone/ConnectionsLab)
 * [Gyawali,Avi](https://github.com/Tauke190/Connections-Lab)
 * [Malik,Sasha](https://github.com/Sasha-Malik/Assignment-1-Connections-Lab)
 * [Pati,Swostik](https://github.com/swostikpati/Connections-Lab-Fall-22)
