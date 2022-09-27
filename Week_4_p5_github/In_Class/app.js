@@ -1,68 +1,56 @@
-// 
-let apiURL = "http://api.open-notify.org/astros.json";
-let astroData;
-let isDataReady = false;
-let astros= [];
 
-window.addEventListener("load", () => {
-  fetch(apiURL)
-  .then(response => response.json())
+let astros;
+let emoji = [];
+let noEmoji = 20;
+let dataIsReady = false;
+let buttonIsClicked = false;
+
+window.addEventListener('load', ()=> {
+  //fetch the data
+  fetch("http://api.open-notify.org/astros.json")
+  .then(resp => resp.json()) 
   .then(data => {
-    console.log(data);
-    astroData = data;
-    isDataReady = true;
-
-    //create new astro objects for each person
-    for(let i=0;i<astroData.people.length;i++) {
-      astros.push(new Astro(astroData.people[i].name, astroData.people[i].craft))
-      // astros[i] = new Astro(astroData.people[i].name, astroData.people[i].craft)
-    }
-
+    console.log(data.people);
+    astros = data.people;
+    dataIsReady = true;
   })
+
+  //add a button
+  // debugger;
+  let peopleButton = document.getElementById("people-button");
+  peopleButton.addEventListener("click",()=>{
+    buttonIsClicked = true;
+    for (let i = 0; i < noEmoji; i++) {
+      let xPos = random(0, width);
+      let yPos = random(0, height);
+      emoji[i] = new Emoji(xPos, yPos);
+    }
+  })
+
+
 })
+
 
 function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
+ 
 }
 
 function draw() {
-  background(220);
-
-  if(isDataReady) {
-    for(let i=0;i<astros.length;i++) {
-
-      // draw the astro for each person in the array
-      astros[i].drawAstro();
-    }
+  background(230,124,34);
+  fill(43,54,128);
+ 
+  for (let i = 0; i < emoji.length; i++) {
+    emoji[i].drawEmoji();
+    emoji[i].moveEmoji();
   }
-  if(mouseIsPressed) {
-    for(let i=0;i<astros.length;i++) {
-      astros[i].showName(mouseX, mouseY);
+
+  if(dataIsReady) {
+    for(let i =0;i<astros.length;i++) {
+      ellipse(width/2,50*i, 50,50);
     }
+    text(astros.length, 200,200);
   }
 }
 
 
-
-class Astro {
-  constructor(name,craft) {
-    this.craft = craft;
-    this.name = name;
-    this.x = random(0,400);
-    this.y = random(0,400);
-    this.r = 10;
-  }
-  drawAstro() {
-    ellipse(this.x, this.y, 2*this.r);
-  }
-
-  showName(mx, my) {
-    if(dist(mx, my, this.x, this.y) < this.r) {
-      text(this.name, this.x, this.y);
-    } else {
-      //dont do anything
-    }
-    // return true if mouise is within ellipse, else false
-  }
-
-}

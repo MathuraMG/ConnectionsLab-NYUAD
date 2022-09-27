@@ -1,19 +1,9 @@
-window.addEventListener('load', function() {
-  fetch('https://api.le-systeme-solaire.net/rest/bodies') //access the json
-  .then(response => response.json())
-  .then(data => { // access the data IF the promise is fulfilled
-    console.log(data);
-    let desc = data.bodies[0].name; // accessing the "description" property of the object "data"
-    let p = document.createElement('p');
-    p.innerHTML = desc;
-    p.classList.add("content");
-    document.body.appendChild(p);
-  })
-  .catch(e => {
-    console.log('there is an error', e);
-  })
-})
 
+
+fetch('https://v2.jokeapi.dev/joke/Any')
+	.then(response => response.json())
+	.then(response => console.log(response))
+	.catch(err => console.error(err));
 
 
 
