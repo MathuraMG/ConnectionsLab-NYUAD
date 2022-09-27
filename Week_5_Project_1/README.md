@@ -1,8 +1,8 @@
 # Project 1 presentations!
 
 ### Important dates
-* Feb 24th - Project presentations
-* Feb 27th - Documentatio due by noon
+* Sep 29th - Project presentations
+* Sep 30th : 11:59pm - Documentation due 
 
 ### Presentation housekeeping
 * Please come prepared with a working link that you will present
