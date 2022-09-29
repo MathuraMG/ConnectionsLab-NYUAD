@@ -70,20 +70,20 @@ B-         70 - 74
 C+         65 - 69
 
 
+## Presentation Order
 
-
-Tayel,Yahia Beethoven
-Alhameli,Fatema
-Gyawali,Avi
-Tran,Linh
-Ahmed,Basil
-Dev, Bishnu
-Rahman,Hasibur
-Aouni,Youssef
-Sun,Pangna
-Malik,Sasha
-Aljunaibi,Fatima
-Talip,Aibar
-Alabbasi,Nouf
-Zia, Hashim
-Pati,Swostik
+* Tayel,Yahia Beethoven
+* Alhameli,Fatema
+* Gyawali,Avi *
+* Tran,Linh
+* Ahmed,Basil
+* Dev, Bishnu *
+* Rahman,Hasibur
+* Aouni,Youssef
+* Sun,Pangna
+* Malik,Sasha
+* Aljunaibi,Fatima
+* Talip,Aibar
+* Alabbasi,Nouf
+* Zia, Hashim
+* Pati,Swostik
