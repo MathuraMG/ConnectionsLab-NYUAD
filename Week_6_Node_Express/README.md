@@ -15,16 +15,22 @@
   * What is [express](https://www.npmjs.com/package/express) 
   * Run your first server!   
 
+### Some terminal commands
+* `cd folder1/folder2` - change directory to new folder
+* `cd ../` - go one folder level back
+* `pwd` - present working directory | In windows - `cd` - current directory
+* `ls` - list everything in the present folder
+* `ls -a` - list "all", includinh hidden files and folders
 
 Brief steps to get your first server running
 1. Create a project folder where you want to create your server
-1. Navigate to that folder in your terminal using cd
-1. Once inside the folder, run `npm init`
-1. The following questions can all be answered by pressing the Enter Key
-1. In the same location, you can also go ahead and install the express node package we need by saying `npm install --save express`
-1. Once this step is done, open the folder in vscode, you should see a package.json file, and a node_modules folder.
-1. Create an index.js file in the same folder
-1. In index.js, type the below code.
+2. Navigate to that folder in your terminal using cd
+3. Once inside the folder, run `npm init`
+4. The following questions can all be answered by pressing the Enter Key
+5. In the same location, you can also go ahead and install the express node package we need by saying `npm install --save express`
+6. Once this step is done, open the folder in vscode, you should see a package.json file, and a node_modules folder.
+7. Create an index.js file in the same folder
+8. In index.js, type the below code.
   `let express = require(‘express’);`
   This code snipped allows us to bring express into the program.
 1. Add the next line of code. 
@@ -36,7 +42,7 @@ app.get('/', (request, response) => {
   response.send("Hello");
 });
 ```
-11. The next snippet tells the server to listen to the browser on port 3000.
+1. The next snippet tells the server to listen to the browser on port 3000.
 ```
 app.listen(3000, ( ) => {
     console.log("app is listening at localhost:3000");
