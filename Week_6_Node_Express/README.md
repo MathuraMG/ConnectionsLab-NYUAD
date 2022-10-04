@@ -19,7 +19,7 @@
 * `cd folder1/folder2` - change directory to new folder
 * `cd ../` - go one folder level back
 * `pwd` - present working directory | In windows - `cd` - current directory
-* `ls` - list everything in the present folder
+* `ls` - list everything in the present folder | Windows `dir`
 * `ls -a` - list "all", includinh hidden files and folders
 
 Brief steps to get your first server running
