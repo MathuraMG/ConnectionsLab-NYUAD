@@ -1,0 +1,15 @@
+{
+  "name": "in_class_server",
+  "version": "1.0.0",
+  "description": "creating a server in class",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mathuramg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

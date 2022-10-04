@@ -1,0 +1,12 @@
+/* Swostik : Canvas border */
+canvas {
+  border: 20px solid teal;
+}
+
+/* Linh */
+#container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -10;
+}

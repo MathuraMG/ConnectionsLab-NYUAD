@@ -1,3 +1,4 @@
+let myCanvas; //Linh
 
 let astros;
 let emoji = [];
@@ -6,6 +7,24 @@ let dataIsReady = false;
 let buttonIsClicked = false;
 
 window.addEventListener('load', ()=> {
+
+  const options = {
+    method: 'GET',
+    headers: {
+      'X-RapidAPI-Key': '1d4b59d2f9mshfcca3ba7c0ce0adp142592jsne67e79e42e9d',
+      'X-RapidAPI-Host': 'dad-jokes.p.rapidapi.com'
+    }
+  };
+  
+  //Youssef : API Testing
+  fetch('https://dad-jokes.p.rapidapi.com/random/joke', options)
+    .then(response => response.json())
+    .then(data => {
+      console.log(data);
+    })
+    .catch(err => console.error(err));
+
+
   //fetch the data
   fetch("http://api.open-notify.org/astros.json")
   .then(resp => resp.json()) 
@@ -32,7 +51,9 @@ window.addEventListener('load', ()=> {
 
 
 function setup() {
-  createCanvas(window.innerWidth, window.innerHeight);
+  //Linh
+  myCanvas = createCanvas(window.innerWidth, window.innerHeight);;
+  myCanvas.parent("container");
  
 }
 
