@@ -1,8 +1,8 @@
 # Project 1 presentations!
 
 ### Important dates
-* Feb 24th - Project presentations
-* Feb 27th - Documentatio due by noon
+* Sep 29th - Project presentations
+* Sep 30th : 11:59pm - Documentation due 
 
 ### Presentation housekeeping
 * Please come prepared with a working link that you will present
@@ -68,3 +68,22 @@ B          75 - 82
 B-         70 - 74
 
 C+         65 - 69
+
+
+## Presentation Order
+
+* Tayel,Yahia Beethoven
+* Alhameli,Fatema
+* Gyawali,Avi *
+* Tran,Linh
+* Ahmed,Basil
+* Dev, Bishnu *
+* Rahman,Hasibur
+* Aouni,Youssef
+* Sun,Pangna
+* Malik,Sasha
+* Aljunaibi,Fatima
+* Talip,Aibar
+* Alabbasi,Nouf
+* Zia, Hashim
+* Pati,Swostik
