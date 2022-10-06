@@ -74,8 +74,6 @@ app.listen(3000, ( ) => {
   * Ensure that your public folder has the files that need to be served
   * Now finally,let's tie this all together and use the API that you made and access it in your code using fetch.
 
-* Using glitch
-
 * Points to remember
   * We now have 2 consoles to think off. The front end console is in the browser, and the servers is in the terminal
   * Remember to restart your server anytime you make a backend change. (There are easier ways to do this - we will look at them next week) 
