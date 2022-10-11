@@ -50,19 +50,19 @@ window.addEventListener('load', function(){
   c. Pass it in the the fetch post request
   ```
   let msgObject = {
-          "msg" : msg
-        }
-        let msgObjectJSON = JSON.stringify(msgObject);
-        console.log(msgObjectJSON);
+    "msg" : msg
+  }
+  let msgObjectJSON = JSON.stringify(msgObject);
+  console.log(msgObjectJSON);
 
-        //Send the data to the server
-        fetch('/message', {
-            method: 'POST',
-            headers: {'Content-Type': 'application/json'},
-            body: msgObjectJSON
-        })
-        .then(res => res.json())
-        .then(data => {  console.log(data )})
+  //Send the data to the server
+  fetch('/message', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: msgObjectJSON
+  })
+  .then(res => res.json())
+  .then(data => {  console.log(data )})
 ```
 
 4. SERVER - add a post route to your app, console.log req and req.body
