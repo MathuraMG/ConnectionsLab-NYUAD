@@ -27,7 +27,7 @@ Brief steps to get your first server running
 2. Navigate to that folder in your terminal using cd
 3. Once inside the folder, run `npm init`
 4. The following questions can all be answered by pressing the Enter Key
-5. In the same location, you can also go ahead and install the express node package we need by saying `npm install --save express`
+5. In the same location, you can also go ahead and install the express node package we need by saying `npm install --save express` (Note: --save flag is not required anymores)
 6. Once this step is done, open the folder in vscode, you should see a package.json file, and a node_modules folder.
 7. Create an index.js file in the same folder
 8. In index.js, type the below code.
