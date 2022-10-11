@@ -19,7 +19,7 @@
 * `cd folder1/folder2` - change directory to new folder
 * `cd ../` - go one folder level back
 * `pwd` - present working directory | In windows - `cd` - current directory
-* `ls` - list everything in the present folder
+* `ls` - list everything in the present folder | Windows `dir`
 * `ls -a` - list "all", includinh hidden files and folders
 
 Brief steps to get your first server running
@@ -74,8 +74,6 @@ app.listen(3000, ( ) => {
   * Ensure that your public folder has the files that need to be served
   * Now finally,let's tie this all together and use the API that you made and access it in your code using fetch.
 
-* Using glitch
-
 * Points to remember
   * We now have 2 consoles to think off. The front end console is in the browser, and the servers is in the terminal
   * Remember to restart your server anytime you make a backend change. (There are easier ways to do this - we will look at them next week) 
@@ -84,9 +82,10 @@ app.listen(3000, ( ) => {
 
 
 ## Assignment
-* MAKE a Node-Express app that serves a web page. This webpage should use an API that you need to fetch. The API should be from your server (a custom API). Make atleast 1 API that uses .params or query.
+* MAKE a functional Node-Express app that serves a web page. This webpage should use an API that you need to fetch. The API should be from your server (a custom API). Make atleast 1 API that uses .params or query. Submissions are due Monday 5pm GST
 * DOCUMENT your progress and learnings from the making your first server in this class
-* For this assignment you do not need to submit a working link. You can upload your code folder into this [google folder](https://drive.google.com/drive/folders/1OeZTE6uEKJ-qA1R-U0wX-MnoZMoYudoy?usp=sharing). Save the folder as <NAME>_<ASSIGNMENT_NAME> (NOTE: Do not upload the node_modules or package-lock.json)
+* For this assignment you do not need to submit a working link. You can upload your code folder into this [google folder](https://drive.google.com/drive/u/1/folders/1lUJhZ429SsJen5aAaud_z5xPgo-I8nOE). 
+Save the folder as `<NAME>_<ASSIGNMENT_NAME>` (NOTE: Do not upload the node_modules or package-lock.json)
 * If you would like some extra practice, a good exercise would be to try and serve your Project #1. You should be able to launch your app from the command line using node, open your web browser, and see your project running.
 
 
