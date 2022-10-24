@@ -2,7 +2,7 @@ let express = require("express");
 let app = express();
 
 app.get("/", (req, res)=> {
-  res.send("Hello from my own server!!!");
+  res.send("hello this is different");
 })
 
 app.listen(3000, () => {

@@ -1,0 +1,64 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7ff;
+  height: 100%;
+  font-family: Helvetica;
+}
+
+.heading {
+  margin: 0;
+}
+
+.container {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.chat {
+  position: absolute;
+  bottom: 0;
+  background: #BDD5EA;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+.chat__form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.chat__input {
+  background: #BDD5EA;
+  border: 2px solid #495867;
+  border-radius: 5px;
+  margin: 0 1rem;
+}
+
+.chat__submit {
+  border: 2px solid #495867;;
+  background: #495867;
+  color: #f7f7ff;
+  border-radius: 5px;
+  margin: 0 1rem;
+  margin-left: 2rem;
+}
+
+.chat__list {
+  list-style: none;
+  padding: 0;
+  width: 60%;
+}
+
+.chat__list-item {
+  display: flex;
+}
+
+.chat__list-item-name  {
+  color: #495867;
+  weight: bold;
+  margin-right: 2rem;
+}
