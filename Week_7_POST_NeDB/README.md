@@ -1,7 +1,7 @@
-#Week 7 - Class 1
-##March 8 - 10:25am - 11:40am
+# Week 7 - Class 1
+## Oct 11
 
-###Class Today
+### Class Today
 * Housekeeping - attendance
 * Go through assignments
 * Recap - any questions?
