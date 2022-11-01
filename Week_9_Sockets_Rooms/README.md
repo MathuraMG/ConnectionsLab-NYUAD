@@ -10,6 +10,8 @@
 * Namespaces and rooms (this will be done on Thursday)
 
 ## Git
+* "Making some changes to test"
+* "Making another change"
 * what is git and github?
 * Install git - https://git-scm.com/downloads
 * Set up a PAT - If you are able to use HTTPS and prompted to create a PAT (personal access token), here is a helpful guide from the Github Docs - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
